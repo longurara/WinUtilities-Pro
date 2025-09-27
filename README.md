@@ -73,7 +73,7 @@ Phần mềm có 2 chế độ:
 
 ## 8. Hỗ trợ & Liên hệ
 
-- Repo GitHub: [longurara/winutilpro-installer](https://github.com/longurara/winutilpro-installer)  
+- Repo GitHub: [longurara/winutilpro-installer](https://github.com/longurara/WinUtilities-Pro)  
 - Tác giả: **longurara**  
 
 ---
