@@ -10,7 +10,7 @@ Phần mềm có 2 chế độ:
 
 ## 2. Màn hình chính
 
-![Main Window](../assets/screenshot-main.png)
+![Main Window](/assets/screenshot-main.png)
 
 ### Thành phần chính
 - **Danh mục (Categories)**:  
