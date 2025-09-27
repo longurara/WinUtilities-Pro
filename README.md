@@ -1,104 +1,82 @@
+# 📖 Hướng dẫn sử dụng – WinUtilPro Installer
+
+## 1. Giới thiệu
+WinUtilPro Installer là công cụ giúp bạn cài nhiều ứng dụng Windows cùng lúc, dựa trên `winget` và script tùy chỉnh.  
+Phần mềm có 2 chế độ:
+- **Basic (Free)**: giới hạn số ứng dụng mỗi lượt.
+- **Premium**: mở toàn bộ tính năng, không giới hạn.
 
 ---
 
-````markdown
-# 🚀 WinUtilPro Installer
+## 2. Màn hình chính
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+![Main Window](../assets/screenshot-main.png)
 
-WinUtilPro Installer là phần mềm **cài đặt nhiều ứng dụng cùng lúc** trên Windows, sử dụng `winget` và script tuỳ chỉnh.  
-Giao diện viết bằng **Python + CustomTkinter**, dễ dùng, hỗ trợ **Favorites** và **Premium Features**.
-
----
-
-## ✨ Tính năng
-
-- 🖥️ **UI trực quan**: chọn app bằng checkbox, tìm kiếm nhanh, lọc theo category.  
-- ⭐ **Favorites**: lưu app hay dùng để cài lại nhanh.  
-- 📋 **Log panel**: theo dõi tiến trình cài đặt (ẩn/hiện để giảm lag).  
-- 🔑 **Premium**:
-  - Không giới hạn số app
-  - Flag nâng cao: `--silent`, `--upgrade`, `--force`, `--admin`
-  - Xuất `.bat`, chạy trực tiếp `WinUtil.ps1`
-  - Tùy chọn mở rộng khác
+### Thành phần chính
+- **Danh mục (Categories)**:  
+  - *Favorites*: hiển thị app bạn đánh dấu ★.  
+  - Các category khác (*Browsers*, *Office*, *Dev Tools*, *System*...).  
+- **Thanh tìm kiếm**: nhập từ khóa để lọc app nhanh.  
+- **Danh sách ứng dụng**: tick chọn app cần cài đặt.  
+- **Sidebar**: nút *Chọn tất cả*, *Bỏ chọn tất cả*, *Ẩn/Hiện log*.  
+- **Log Panel**: hiển thị tiến trình cài đặt (có thể ẩn để giảm lag).
 
 ---
 
-## 📷 Screenshots
+## 3. Cài đặt ứng dụng
 
-> Giao diện chính (Main Window)
+1. Mở phần mềm.  
+2. Chọn category hoặc Favorites.  
+3. Tick các ứng dụng cần cài.  
+4. Nhấn **Install**.  
+5. Theo dõi quá trình trong **Log Panel**.  
 
-![Main Window](./assets/screenshot-main.png)
-
-> About / Premium
-
-![About Window](./assets/screenshot-about.png)
-
----
-
-## 📦 Cài đặt
-
-### Yêu cầu hệ thống
-- Windows 10/11 (x64)
-- Đã cài **winget**
-- Python 3.11+ (nếu chạy source)
-
-### Cài đặt từ source
-```bash
-git clone https://github.com/longurara/winutilpro-installer
-cd winutilpro-installer
-pip install -r requirements.txt
-python installer.py
-````
-
-### Dùng bản đóng gói `.exe`
-
-Tải từ [Releases](https://github.com/longurara/winutilpro-installer/releases)
-👉 Không cần Python, chạy trực tiếp.
+👉 Với Premium: bạn có thể **xuất script `.bat`** hoặc **chạy trực tiếp WinUtil.ps1** để tái sử dụng.
 
 ---
 
-## 🛠️ Sử dụng
+## 4. Quản lý Favorites
 
-1. Chọn category hoặc Favorites.
-2. Tick ứng dụng muốn cài.
-3. Bấm **Install**.
-4. Theo dõi log.
-5. Với Premium → có thể xuất script `.bat` hoặc chạy PowerShell trực tiếp.
+- Tick app → nhấn nút ★ để thêm vào Favorites.  
+- Vào mục **Favorites** để cài nhanh các app thường dùng.  
+- Rất tiện khi cài lại máy mới: chỉ cần mở Favorites, tick, Install.
 
 ---
 
-## 🔑 Basic vs Premium
+## 5. About / Premium
 
-| Tính năng                 | Basic (Free) | Premium        |
-| ------------------------- | ------------ | -------------- |
-| Giới hạn app / lượt       | 5            | Không giới hạn |
-| Tìm kiếm, lọc category    | ✅            | ✅              |
-| Favorites                 | ✅            | ✅              |
-| Flag nâng cao (Silent...) | ❌            | ✅              |
-| Xuất `.bat`, WinUtil.ps1  | ❌            | ✅              |
+![About Window](../assets/screenshot-about.png)
+
+- Tab **About**: thông tin phiên bản, mô tả, link GitHub/Docs.  
+- Tab **Premium**: so sánh Basic vs Premium, nhập/xóa License, nút nâng cấp.  
 
 ---
 
-## 🤝 Đóng góp
+## 6. Tính năng Premium
 
-Mọi đóng góp đều được hoan nghênh!
-
-* Fork repo → tạo nhánh → PR
-* Mở issue nếu phát hiện bug/đề xuất tính năng
-
----
-
-## 📜 License
-
-Dự án phát hành theo [MIT License](./LICENSE).
+- Không giới hạn số app cài cùng lúc.  
+- Thêm flag nâng cao:  
+  - `--silent` (cài yên lặng)  
+  - `--upgrade` (cập nhật app)  
+  - `--force` (ép cài)  
+  - `--admin` (chạy với quyền quản trị)  
+- Xuất file `.bat` hoặc chạy trực tiếp PowerShell script.  
+- Tuỳ chọn nâng cao khác.  
 
 ---
 
-## 👨‍💻 Tác giả
+## 7. Mẹo sử dụng
 
-* **longurara**
-* GitHub: [@longurara](https://github.com/longurara)
+- **Ẩn log** khi không cần theo dõi để phần mềm chạy mượt hơn.  
+- Dùng **Favorites** để cài nhanh bộ app quen thuộc.  
+- Nếu muốn tái sử dụng nhiều lần → xuất `.bat` (Premium).  
+- Nhấn **Ctrl+F** để tìm app nhanh, **Ctrl+A** để chọn tất cả, **Ctrl+D** bỏ chọn tất cả, **Esc** xoá ô tìm kiếm.  
 
-```
+---
+
+## 8. Hỗ trợ & Liên hệ
+
+- Repo GitHub: [longurara/winutilpro-installer](https://github.com/longurara/winutilpro-installer)  
+- Tác giả: **longurara**  
+
+---
