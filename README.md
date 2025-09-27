@@ -10,7 +10,6 @@ Phần mềm có 2 chế độ:
 
 ## 2. Màn hình chính
 
-![Main Window](/assets/screenshot-main.png)
 
 ### Thành phần chính
 - **Danh mục (Categories)**:  
@@ -44,8 +43,6 @@ Phần mềm có 2 chế độ:
 ---
 
 ## 5. About / Premium
-
-![About Window](../assets/screenshot-about.png)
 
 - Tab **About**: thông tin phiên bản, mô tả, link GitHub/Docs.  
 - Tab **Premium**: so sánh Basic vs Premium, nhập/xóa License, nút nâng cấp.  
