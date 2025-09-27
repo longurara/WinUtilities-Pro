@@ -1,80 +1,109 @@
-📖 User Guide – WinUtilPro Installer
-1. Khởi động phần mềm
 
-Chạy file installer.py (nếu dùng source) hoặc chạy WinUtilProInstaller.exe (nếu tải bản đóng gói).
+---
 
-Giao diện chính sẽ hiện danh sách ứng dụng theo danh mục (category) hoặc mục Favorites của bạn.
+````markdown
+# 🚀 WinUtilPro Installer
 
-2. Cửa sổ chính
-🗂 Danh mục
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-Favorites: nơi hiển thị các app bạn đã đánh dấu ★.
+WinUtilPro Installer là phần mềm **cài đặt nhiều ứng dụng cùng lúc** trên Windows, sử dụng `winget` và script tuỳ chỉnh.  
+Giao diện viết bằng **Python + CustomTkinter**, dễ dùng, hỗ trợ **Favorites** và **Premium Features**.
 
-Các Category khác: ví dụ: Browsers, Multimedia, Office, Dev Tools, System.
-👉 Chọn category để thu hẹp danh sách app cần cài.
+---
 
-🔍 Tìm kiếm
+## ✨ Tính năng
 
-Ô tìm kiếm phía trên cho phép gõ tên app (VD: “chrome”, “vscode”).
+- 🖥️ **UI trực quan**: chọn app bằng checkbox, tìm kiếm nhanh, lọc theo category.  
+- ⭐ **Favorites**: lưu app hay dùng để cài lại nhanh.  
+- 📋 **Log panel**: theo dõi tiến trình cài đặt (ẩn/hiện để giảm lag).  
+- 🔑 **Premium**:
+  - Không giới hạn số app
+  - Flag nâng cao: `--silent`, `--upgrade`, `--force`, `--admin`
+  - Xuất `.bat`, chạy trực tiếp `WinUtil.ps1`
+  - Tùy chọn mở rộng khác
 
-Kết quả sẽ lọc theo từ khoá bạn nhập.
+---
 
-✅ Chọn ứng dụng
+## 📷 Screenshots
 
-Tick vào checkbox để chọn app cần cài.
+> Giao diện chính (Main Window)
 
-Có nút Chọn tất cả / Bỏ chọn tất cả ở sidebar để thao tác nhanh.
+![Main Window](./assets/screenshot-main.png)
 
-📋 Log
+> About / Premium
 
-Panel log hiển thị tiến trình cài đặt (thành công, lỗi, cảnh báo).
+![About Window](./assets/screenshot-about.png)
 
-Có thể Ẩn / Hiện log bằng nút toggle để giảm lag.
+---
 
-3. Cài đặt ứng dụng
+## 📦 Cài đặt
 
-Tick chọn ứng dụng.
+### Yêu cầu hệ thống
+- Windows 10/11 (x64)
+- Đã cài **winget**
+- Python 3.11+ (nếu chạy source)
 
-Nhấn nút Install.
+### Cài đặt từ source
+```bash
+git clone https://github.com/longurara/winutilpro-installer
+cd winutilpro-installer
+pip install -r requirements.txt
+python installer.py
+````
 
-Phần mềm sẽ chạy winget hoặc script cài đặt tương ứng.
+### Dùng bản đóng gói `.exe`
 
-Theo dõi tiến trình trong log panel.
+Tải từ [Releases](https://github.com/longurara/winutilpro-installer/releases)
+👉 Không cần Python, chạy trực tiếp.
 
-4. About / Premium
+---
 
-Mở từ menu About / Premium:
+## 🛠️ Sử dụng
 
-About:
+1. Chọn category hoặc Favorites.
+2. Tick ứng dụng muốn cài.
+3. Bấm **Install**.
+4. Theo dõi log.
+5. Với Premium → có thể xuất script `.bat` hoặc chạy PowerShell trực tiếp.
 
-Hiển thị thông tin phiên bản, mô tả ngắn, link GitHub/Docs.
+---
 
-Premium:
+## 🔑 Basic vs Premium
 
-So sánh Basic vs Premium.
+| Tính năng                 | Basic (Free) | Premium        |
+| ------------------------- | ------------ | -------------- |
+| Giới hạn app / lượt       | 5            | Không giới hạn |
+| Tìm kiếm, lọc category    | ✅            | ✅              |
+| Favorites                 | ✅            | ✅              |
+| Flag nâng cao (Silent...) | ❌            | ✅              |
+| Xuất `.bat`, WinUtil.ps1  | ❌            | ✅              |
 
-Cho biết gói hiện tại bạn đang dùng.
+---
 
-Nhập key để kích hoạt Premium hoặc xoá license.
+## 🤝 Đóng góp
 
-5. Premium Features
+Mọi đóng góp đều được hoan nghênh!
 
-Nếu nâng cấp lên Premium:
+* Fork repo → tạo nhánh → PR
+* Mở issue nếu phát hiện bug/đề xuất tính năng
 
-Không giới hạn số app cài mỗi lượt.
+---
 
-Dùng flag nâng cao: --silent, --upgrade, --force, --admin.
+## 📜 License
 
-Xuất file .bat để cài đặt sau.
+Dự án phát hành theo [MIT License](./LICENSE).
 
-Chạy trực tiếp WinUtil.ps1.
+---
 
-Tùy chọn mở rộng khác.
+## 👨‍💻 Tác giả
 
-6. Tips sử dụng
+* **longurara**
+* GitHub: [@longurara](https://github.com/longurara)
 
-Nếu lần đầu, hãy chọn Favorites để lưu các app thường dùng.
+```
 
-Khi cần cài nhanh lại máy mới → chỉ cần mở app, vào Favorites, tick chọn rồi Install.
+---
 
-Với Premium, nên xuất .bat để tái sử dụng nhiều lần.
+👉 Bạn có muốn mình bổ sung thêm **badges CI/CD** (build passing, release version) và **table of contents** cho README này không?
+```
