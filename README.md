@@ -102,8 +102,3 @@ Dự án phát hành theo [MIT License](./LICENSE).
 * GitHub: [@longurara](https://github.com/longurara)
 
 ```
-
----
-
-👉 Bạn có muốn mình bổ sung thêm **badges CI/CD** (build passing, release version) và **table of contents** cho README này không?
-```
