@@ -1,0 +1,2963 @@
+[
+  {
+    "name": "7-Zip",
+    "id": "7zip.7zip",
+    "cmd": "winget install -e --id 7zip.7zip",
+    "category": "system",
+    "icon": "7-zip.org"
+  },
+  {
+    "name": "AIDA64 Engineer",
+    "id": "FinalWire.AIDA64.Engineer",
+    "cmd": "winget install -e --id FinalWire.AIDA64.Engineer",
+    "category": "system",
+    "icon": "aida64.com"
+  },
+  {
+    "name": "AnyDesk",
+    "id": "AnyDesk.AnyDesk",
+    "cmd": "winget install -e --id AnyDesk.AnyDesk",
+    "category": "system",
+    "icon": "anydesk.com"
+  },
+  {
+    "name": "AOMEI Backupper",
+    "id": "AOMEI.Backupper",
+    "cmd": "winget install -e --id AOMEI.Backupper",
+    "category": "system",
+    "icon": "aomeitech.com"
+  },
+  {
+    "name": "AutoHotkey",
+    "id": "AutoHotkey.AutoHotkey",
+    "cmd": "winget install -e --id AutoHotkey.AutoHotkey",
+    "category": "system",
+    "icon": "autohotkey.com"
+  },
+  {
+    "name": "Autoruns",
+    "id": "Microsoft.Sysinternals.Autoruns",
+    "cmd": "winget install -e --id Microsoft.Sysinternals.Autoruns",
+    "category": "system",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Bandizip",
+    "id": "Bandizip.Bandizip",
+    "cmd": "winget install -e --id Bandizip.Bandizip",
+    "category": "system",
+    "icon": "bandisoft.com"
+  },
+  {
+    "name": "Belarc Advisor",
+    "id": "Belarc.Advisor",
+    "cmd": "winget install -e --id Belarc.Advisor",
+    "category": "system",
+    "icon": "belarc.com"
+  },
+  {
+    "name": "BleachBit",
+    "id": "BleachBit.BleachBit",
+    "cmd": "winget install -e --id BleachBit.BleachBit",
+    "category": "system",
+    "icon": "bleachbit.org"
+  },
+  {
+    "name": "Bulk Crap Uninstaller",
+    "id": "Klocman.BulkCrapUninstaller",
+    "cmd": "winget install -e --id Klocman.BulkCrapUninstaller",
+    "category": "system",
+    "icon": "bcuninstaller.com"
+  },
+  {
+    "name": "Caffeine",
+    "id": "Zhorn.Caffeine",
+    "cmd": "winget install -e --id Zhorn.Caffeine",
+    "category": "system",
+    "icon": "zhornsoftware.co.uk"
+  },
+  {
+    "name": "CCleaner",
+    "id": "Piriform.CCleaner",
+    "cmd": "winget install -e --id Piriform.CCleaner",
+    "category": "system",
+    "icon": "ccleaner.com"
+  },
+  {
+    "name": "CPU-Z",
+    "id": "CPUID.CPU-Z",
+    "cmd": "winget install -e --id CPUID.CPU-Z",
+    "category": "system",
+    "icon": "cpuid.com"
+  },
+  {
+    "name": "CrystalDiskInfo",
+    "id": "CrystalDewWorld.CrystalDiskInfo",
+    "cmd": "winget install -e --id CrystalDewWorld.CrystalDiskInfo",
+    "category": "system",
+    "icon": "crystalmark.info"
+  },
+  {
+    "name": "CrystalDiskMark",
+    "id": "CrystalDewWorld.CrystalDiskMark",
+    "cmd": "winget install -e --id CrystalDewWorld.CrystalDiskMark",
+    "category": "system",
+    "icon": "crystalmark.info"
+  },
+  {
+    "name": "DAEMON Tools Lite",
+    "id": "DiscSoft.DAEMONToolsLite",
+    "cmd": "winget install -e --id DiscSoft.DAEMONToolsLite",
+    "category": "system",
+    "icon": "daemon-tools.cc"
+  },
+  {
+    "name": "Ditto Clipboard Manager",
+    "id": "Ditto.Ditto",
+    "cmd": "winget install -e --id Ditto.Ditto",
+    "category": "system",
+    "icon": "ditto-cp.sourceforge.io"
+  },
+  {
+    "name": "Double Commander",
+    "id": "doublecmd.doublecmd",
+    "cmd": "winget install -e --id doublecmd.doublecmd",
+    "category": "system",
+    "icon": "doublecmd.sourceforge.io"
+  },
+  {
+    "name": "EaseUS Partition Master",
+    "id": "EaseUS.PartitionMaster.Free",
+    "cmd": "winget install -e --id EaseUS.PartitionMaster.Free",
+    "category": "system",
+    "icon": "easeus.com"
+  },
+  {
+    "name": "Everything",
+    "id": "voidtools.Everything",
+    "cmd": "winget install -e --id voidtools.Everything",
+    "category": "system",
+    "icon": "voidtools.com"
+  },
+  {
+    "name": "FastStone Image Viewer",
+    "id": "FastStone.Image.Viewer",
+    "cmd": "winget install -e --id FastStone.Image.Viewer",
+    "category": "system",
+    "icon": "faststone.org"
+  },
+  {
+    "name": "FileZilla",
+    "id": "FileZilla.FileZilla",
+    "cmd": "winget install -e --id FileZilla.FileZilla",
+    "category": "system",
+    "icon": "filezilla-project.org"
+  },
+  {
+    "name": "Flameshot",
+    "id": "Flameshot.Flameshot",
+    "cmd": "winget install -e --id Flameshot.Flameshot",
+    "category": "system",
+    "icon": "flameshot.org"
+  },
+  {
+    "name": "Flow Launcher",
+    "id": "Flow-Launcher.Flow-Launcher",
+    "cmd": "winget install -e --id Flow-Launcher.Flow-Launcher",
+    "category": "system",
+    "icon": "flowlauncher.com"
+  },
+  {
+    "name": "Glary Utilities",
+    "id": "Glarysoft.GlaryUtilities",
+    "cmd": "winget install -e --id Glarysoft.GlaryUtilities",
+    "category": "system",
+    "icon": "glarysoft.com"
+  },
+  {
+    "name": "GPU-Z",
+    "id": "TechPowerUp.GPU-Z",
+    "cmd": "winget install -e --id TechPowerUp.GPU-Z",
+    "category": "system",
+    "icon": "techpowerup.com"
+  },
+  {
+    "name": "Greenshot",
+    "id": "Greenshot.Greenshot",
+    "cmd": "winget install -e --id Greenshot.Greenshot",
+    "category": "system",
+    "icon": "getgreenshot.org"
+  },
+  {
+    "name": "HWMonitor",
+    "id": "CPUID.HWMonitor",
+    "cmd": "winget install -e --id CPUID.HWMonitor",
+    "category": "system",
+    "icon": "cpuid.com"
+  },
+  {
+    "name": "HWiNFO",
+    "id": "REALiX.HWiNFO",
+    "cmd": "winget install -e --id REALiX.HWiNFO",
+    "category": "system",
+    "icon": "hwinfo.com"
+  },
+  {
+    "name": "ImgBurn",
+    "id": "LightningUK.ImgBurn",
+    "cmd": "winget install -e --id LightningUK.ImgBurn",
+    "category": "system",
+    "icon": "imgburn.com"
+  },
+  {
+    "name": "IObit Unlocker",
+    "id": "IObit.Unlocker",
+    "cmd": "winget install -e --id IObit.Unlocker",
+    "category": "system",
+    "icon": "iobit.com"
+  },
+  {
+    "name": "IrfanView",
+    "id": "IrfanSkiljan.IrfanView",
+    "cmd": "winget install -e --id IrfanSkiljan.IrfanView",
+    "category": "system",
+    "icon": "irfanview.com"
+  },
+  {
+    "name": "LightBulb",
+    "id": "Tyrrrz.LightBulb",
+    "cmd": "winget install -e --id Tyrrrz.LightBulb",
+    "category": "system",
+    "icon": "lightbulb-app.org"
+  },
+  {
+    "name": "Macrium Reflect Free",
+    "id": "Macrium.Reflect.Free",
+    "cmd": "winget install -e --id Macrium.Reflect.Free",
+    "category": "system",
+    "icon": "macrium.com"
+  },
+  {
+    "name": "MiniTool Partition Wizard",
+    "id": "MiniTool.PartitionWizard.Free",
+    "cmd": "winget install -e --id MiniTool.PartitionWizard.Free",
+    "category": "system",
+    "icon": "minitool.com"
+  },
+  {
+    "name": "Notepad++",
+    "id": "Notepad++.Notepad++",
+    "cmd": "winget install -e --id Notepad++.Notepad++",
+    "category": "system",
+    "icon": "notepad-plus-plus.org"
+  },
+  {
+    "name": "Paragon Partition Manager",
+    "id": "Paragon.PartitionManager.Free",
+    "cmd": "winget install -e --id Paragon.PartitionManager.Free",
+    "category": "system",
+    "icon": "paragon-software.com"
+  },
+  {
+    "name": "PeaZip",
+    "id": "GiorgioTani.PeaZip",
+    "cmd": "winget install -e --id GiorgioTani.PeaZip",
+    "category": "system",
+    "icon": "peazip.github.io"
+  },
+  {
+    "name": "PowerToys",
+    "id": "Microsoft.PowerToys",
+    "cmd": "winget install -e --id Microsoft.PowerToys",
+    "category": "system",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Process Hacker",
+    "id": "ProcessHacker.ProcessHacker",
+    "cmd": "winget install -e --id ProcessHacker.ProcessHacker",
+    "category": "system",
+    "icon": "processhacker.sourceforge.io"
+  },
+  {
+    "name": "ProduKey",
+    "id": "NirSoft.ProduKey",
+    "cmd": "winget install -e --id NirSoft.ProduKey",
+    "category": "system",
+    "icon": "nirsoft.net"
+  },
+  {
+    "name": "PuTTY",
+    "id": "PuTTY.PuTTY",
+    "cmd": "winget install -e --id PuTTY.PuTTY",
+    "category": "system",
+    "icon": "putty.org"
+  },
+  {
+    "name": "qBittorrent",
+    "id": "qBittorrent.qBittorrent",
+    "cmd": "winget install -e --id qBittorrent.qBittorrent",
+    "category": "system",
+    "icon": "qbittorrent.org"
+  },
+  {
+    "name": "Recuva",
+    "id": "Piriform.Recuva",
+    "cmd": "winget install -e --id Piriform.Recuva",
+    "category": "system",
+    "icon": "ccleaner.com"
+  },
+  {
+    "name": "Revo Uninstaller",
+    "id": "VSRevoGroup.RevoUninstaller",
+    "cmd": "winget install -e --id VSRevoGroup.RevoUninstaller",
+    "category": "system",
+    "icon": "revouninstaller.com"
+  },
+  {
+    "name": "Rufus",
+    "id": "Rufus.Rufus",
+    "cmd": "winget install -e --id Rufus.Rufus",
+    "category": "system",
+    "icon": "rufus.ie"
+  },
+  {
+    "name": "Sandboxie Plus",
+    "id": "SandboxiePlus.SandboxiePlus",
+    "cmd": "winget install -e --id SandboxiePlus.SandboxiePlus",
+    "category": "system",
+    "icon": "sandboxie-plus.com"
+  },
+  {
+    "name": "ShareX",
+    "id": "ShareX.ShareX",
+    "cmd": "winget install -e --id ShareX.ShareX",
+    "category": "system",
+    "icon": "getsharex.com"
+  },
+  {
+    "name": "SpaceSniffer",
+    "id": "Uderzo.SpaceSniffer",
+    "cmd": "winget install -e --id Uderzo.SpaceSniffer",
+    "category": "system",
+    "icon": "uderzo.it"
+  },
+  {
+    "name": "Speccy",
+    "id": "Piriform.Speccy",
+    "cmd": "winget install -e --id Piriform.Speccy",
+    "category": "system",
+    "icon": "ccleaner.com"
+  },
+  {
+    "name": "Sysinternals Suite",
+    "id": "Microsoft.Sysinternals",
+    "cmd": "winget install -e --id Microsoft.Sysinternals",
+    "category": "system",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "TeamViewer",
+    "id": "TeamViewer.TeamViewer",
+    "cmd": "winget install -e --id TeamViewer.TeamViewer",
+    "category": "system",
+    "icon": "teamviewer.com"
+  },
+  {
+    "name": "TeraCopy",
+    "id": "CodeSector.TeraCopy",
+    "cmd": "winget install -e --id CodeSector.TeraCopy",
+    "category": "system",
+    "icon": "codesector.com"
+  },
+  {
+    "name": "Total Commander",
+    "id": "Ghisler.TotalCommander",
+    "cmd": "winget install -e --id Ghisler.TotalCommander",
+    "category": "system",
+    "icon": "ghisler.com"
+  },
+  {
+    "name": "TreeSize Free",
+    "id": "JAMSoftware.TreeSize.Free",
+    "cmd": "winget install -e --id JAMSoftware.TreeSize.Free",
+    "category": "system",
+    "icon": "jam-software.com"
+  },
+  {
+    "name": "UltraCopier",
+    "id": "BruleHerman.UltraCopier",
+    "cmd": "winget install -e --id BruleHerman.UltraCopier",
+    "category": "system",
+    "icon": "ultracopier.herman-brule.com"
+  },
+  {
+    "name": "Unlocker",
+    "id": "EmptyLoop.Unlocker",
+    "cmd": "winget install -e --id EmptyLoop.Unlocker",
+    "category": "system",
+    "icon": "emptyloop.com"
+  },
+  {
+    "name": "Veeam Agent",
+    "id": "Veeam.Agent",
+    "cmd": "winget install -e --id Veeam.Agent",
+    "category": "system",
+    "icon": "veeam.com"
+  },
+  {
+    "name": "Ventoy",
+    "id": "ventoy.Ventoy",
+    "cmd": "winget install -e --id ventoy.Ventoy",
+    "category": "system",
+    "icon": "ventoy.net"
+  },
+  {
+    "name": "VeraCrypt",
+    "id": "IDRIX.VeraCrypt",
+    "cmd": "winget install -e --id IDRIX.VeraCrypt",
+    "category": "system",
+    "icon": "veracrypt.fr"
+  },
+  {
+    "name": "Virtual CloneDrive",
+    "id": "ElaborateBytes.VirtualCloneDrive",
+    "cmd": "winget install -e --id ElaborateBytes.VirtualCloneDrive",
+    "category": "system",
+    "icon": "redfox.bz"
+  },
+  {
+    "name": "WinDirStat",
+    "id": "WinDirStat.WinDirStat",
+    "cmd": "winget install -e --id WinDirStat.WinDirStat",
+    "category": "system",
+    "icon": "windirstat.net"
+  },
+  {
+    "name": "WinRAR",
+    "id": "RARLab.WinRAR",
+    "cmd": "winget install -e --id RARLab.WinRAR",
+    "category": "system",
+    "icon": "win-rar.com"
+  },
+  {
+    "name": "WinSCP",
+    "id": "WinSCP.WinSCP",
+    "cmd": "winget install -e --id WinSCP.WinSCP",
+    "category": "system",
+    "icon": "winscp.net"
+  },
+  {
+    "name": "WizTree",
+    "id": "AntibodySoftware.WizTree",
+    "cmd": "winget install -e --id AntibodySoftware.WizTree",
+    "category": "system",
+    "icon": "diskanalyzer.com"
+  },
+  {
+    "name": "Brave",
+    "id": "Brave.Brave",
+    "cmd": "winget install -e --id Brave.Brave",
+    "category": "browsers",
+    "icon": "brave.com"
+  },
+  {
+    "name": "Google Chrome",
+    "id": "Google.Chrome",
+    "cmd": "winget install -e --id Google.Chrome",
+    "category": "browsers",
+    "icon": "google.com"
+  },
+  {
+    "name": "Microsoft Edge",
+    "id": "Microsoft.Edge",
+    "cmd": "winget install -e --id Microsoft.Edge",
+    "category": "browsers",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Mozilla Firefox",
+    "id": "Mozilla.Firefox",
+    "cmd": "winget install -e --id Mozilla.Firefox",
+    "category": "browsers",
+    "icon": "mozilla.org"
+  },
+  {
+    "name": "Opera",
+    "id": "Opera.Opera",
+    "cmd": "winget install -e --id Opera.Opera",
+    "category": "browsers",
+    "icon": "opera.com"
+  },
+  {
+    "name": "Tor Browser",
+    "id": "TorProject.TorBrowser",
+    "cmd": "winget install -e --id TorProject.TorBrowser",
+    "category": "browsers",
+    "icon": "torproject.org"
+  },
+  {
+    "name": "Ungoogled Chromium",
+    "id": "Eloston.UngoogledChromium",
+    "cmd": "winget install -e --id Eloston.UngoogledChromium",
+    "category": "browsers",
+    "icon": "github.com"
+  },
+  {
+    "name": "Vivaldi",
+    "id": "Vivaldi.Vivaldi",
+    "cmd": "winget install -e --id Vivaldi.Vivaldi",
+    "category": "browsers",
+    "icon": "vivaldi.com"
+  },
+  {
+    "name": "Waterfox",
+    "id": "Waterfox.Waterfox",
+    "cmd": "winget install -e --id Waterfox.Waterfox",
+    "category": "browsers",
+    "icon": "waterfox.net"
+  },
+  {
+    "name": ".NET 6 SDK",
+    "id": "Microsoft.dotnet.SDK.6",
+    "cmd": "winget install -e --id Microsoft.dotnet.SDK.6",
+    "category": "developer",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": ".NET 7 SDK",
+    "id": "Microsoft.dotnet.SDK.7",
+    "cmd": "winget install -e --id Microsoft.dotnet.SDK.7",
+    "category": "developer",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": ".NET 8 SDK",
+    "id": "Microsoft.dotnet.SDK.8",
+    "cmd": "winget install -e --id Microsoft.dotnet.SDK.8",
+    "category": "developer",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Android Studio",
+    "id": "Google.AndroidStudio",
+    "cmd": "winget install -e --id Google.AndroidStudio",
+    "category": "developer",
+    "icon": "android.com"
+  },
+  {
+    "name": "Atom",
+    "id": "GitHub.Atom",
+    "cmd": "winget install -e --id GitHub.Atom",
+    "category": "developer",
+    "icon": "atom.io"
+  },
+  {
+    "name": "Brackets",
+    "id": "Adobe.Brackets",
+    "cmd": "winget install -e --id Adobe.Brackets",
+    "category": "developer",
+    "icon": "brackets.io"
+  },
+  {
+    "name": "Charles Proxy",
+    "id": "XK72.Charles",
+    "cmd": "winget install -e --id XK72.Charles",
+    "category": "developer",
+    "icon": "charlesproxy.com"
+  },
+  {
+    "name": "CLion",
+    "id": "JetBrains.CLion",
+    "cmd": "winget install -e --id JetBrains.CLion",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "CMake",
+    "id": "Kitware.CMake",
+    "cmd": "winget install -e --id Kitware.CMake",
+    "category": "developer",
+    "icon": "cmake.org"
+  },
+  {
+    "name": "Cmder",
+    "id": "Cmder.Cmder",
+    "cmd": "winget install -e --id Cmder.Cmder",
+    "category": "developer",
+    "icon": "cmder.net"
+  },
+  {
+    "name": "Dart SDK",
+    "id": "Google.Dart.SDK",
+    "cmd": "winget install -e --id Google.Dart.SDK",
+    "category": "developer",
+    "icon": "dart.dev"
+  },
+  {
+    "name": "DBeaver",
+    "id": "DBeaver.DBeaver",
+    "cmd": "winget install -e --id DBeaver.DBeaver",
+    "category": "developer",
+    "icon": "dbeaver.io"
+  },
+  {
+    "name": "Docker Desktop",
+    "id": "Docker.DockerDesktop",
+    "cmd": "winget install -e --id Docker.DockerDesktop",
+    "category": "developer",
+    "icon": "docker.com"
+  },
+  {
+    "name": "Eclipse",
+    "id": "EclipseFoundation.Eclipse",
+    "cmd": "winget install -e --id EclipseFoundation.Eclipse",
+    "category": "developer",
+    "icon": "eclipse.org"
+  },
+  {
+    "name": "Fiddler Classic",
+    "id": "Progress.Fiddler",
+    "cmd": "winget install -e --id Progress.Fiddler",
+    "category": "developer",
+    "icon": "telerik.com"
+  },
+  {
+    "name": "Fiddler Everywhere",
+    "id": "Progress.FiddlerEverywhere",
+    "cmd": "winget install -e --id Progress.FiddlerEverywhere",
+    "category": "developer",
+    "icon": "telerik.com"
+  },
+  {
+    "name": "FileZilla Server",
+    "id": "FileZilla.Server",
+    "cmd": "winget install -e --id FileZilla.Server",
+    "category": "developer",
+    "icon": "filezilla-project.org"
+  },
+  {
+    "name": "Flutter SDK",
+    "id": "Google.Flutter.SDK",
+    "cmd": "winget install -e --id Google.Flutter.SDK",
+    "category": "developer",
+    "icon": "flutter.dev"
+  },
+  {
+    "name": "Git",
+    "id": "Git.Git",
+    "cmd": "winget install -e --id Git.Git",
+    "category": "developer",
+    "icon": "git-scm.com"
+  },
+  {
+    "name": "GitHub Desktop",
+    "id": "GitHub.GitHubDesktop",
+    "cmd": "winget install -e --id GitHub.GitHubDesktop",
+    "category": "developer",
+    "icon": "github.com"
+  },
+  {
+    "name": "GitKraken",
+    "id": "Axosoft.GitKraken",
+    "cmd": "winget install -e --id Axosoft.GitKraken",
+    "category": "developer",
+    "icon": "gitkraken.com"
+  },
+  {
+    "name": "GnuWin32 Make",
+    "id": "GnuWin32.Make",
+    "cmd": "winget install -e --id GnuWin32.Make",
+    "category": "developer",
+    "icon": "gnu.org"
+  },
+  {
+    "name": "Go",
+    "id": "Golang.Go",
+    "cmd": "winget install -e --id Golang.Go",
+    "category": "developer",
+    "icon": "golang.org"
+  },
+  {
+    "name": "HeidiSQL",
+    "id": "HeidiSQL.HeidiSQL",
+    "cmd": "winget install -e --id HeidiSQL.HeidiSQL",
+    "category": "developer",
+    "icon": "heidisql.com"
+  },
+  {
+    "name": "Insomnia",
+    "id": "Kong.Insomnia",
+    "cmd": "winget install -e --id Kong.Insomnia",
+    "category": "developer",
+    "icon": "insomnia.rest"
+  },
+  {
+    "name": "IntelliJ IDEA Community",
+    "id": "JetBrains.IntelliJIDEA.Community",
+    "cmd": "winget install -e --id JetBrains.IntelliJIDEA.Community",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "Katalon Studio",
+    "id": "Katalon.KatalonStudio",
+    "cmd": "winget install -e --id Katalon.KatalonStudio",
+    "category": "developer",
+    "icon": "katalon.com"
+  },
+  {
+    "name": "Laragon",
+    "id": "Laragon.Laragon",
+    "cmd": "winget install -e --id Laragon.Laragon",
+    "category": "developer",
+    "icon": "laragon.org"
+  },
+  {
+    "name": "MobaXterm",
+    "id": "Mobatek.MobaXterm",
+    "cmd": "winget install -e --id Mobatek.MobaXterm",
+    "category": "developer",
+    "icon": "mobatek.net"
+  },
+  {
+    "name": "MongoDB Compass",
+    "id": "MongoDB.Compass",
+    "cmd": "winget install -e --id MongoDB.Compass",
+    "category": "developer",
+    "icon": "mongodb.com"
+  },
+  {
+    "name": "MySQL Workbench",
+    "id": "Oracle.MySQL.Workbench",
+    "cmd": "winget install -e --id Oracle.MySQL.Workbench",
+    "category": "developer",
+    "icon": "mysql.com"
+  },
+  {
+    "name": "NetBeans",
+    "id": "Apache.NetBeans",
+    "cmd": "winget install -e --id Apache.NetBeans",
+    "category": "developer",
+    "icon": "netbeans.apache.org"
+  },
+  {
+    "name": "Node.js",
+    "id": "OpenJS.NodeJS",
+    "cmd": "winget install -e --id OpenJS.NodeJS",
+    "category": "developer",
+    "icon": "nodejs.org"
+  },
+  {
+    "name": "Notepad2",
+    "id": "XhmikosR.Notepad2",
+    "cmd": "winget install -e --id XhmikosR.Notepad2",
+    "category": "developer",
+    "icon": "flos-freeware.ch"
+  },
+  {
+    "name": "OpenJDK 8",
+    "id": "EclipseAdoptium.Temurin.8",
+    "cmd": "winget install -e --id EclipseAdoptium.Temurin.8",
+    "category": "developer",
+    "icon": "adoptium.net"
+  },
+  {
+    "name": "OpenJDK 11",
+    "id": "EclipseAdoptium.Temurin.11",
+    "cmd": "winget install -e --id EclipseAdoptium.Temurin.11",
+    "category": "developer",
+    "icon": "adoptium.net"
+  },
+  {
+    "name": "OpenJDK 17",
+    "id": "EclipseAdoptium.Temurin.17",
+    "cmd": "winget install -e --id EclipseAdoptium.Temurin.17",
+    "category": "developer",
+    "icon": "adoptium.net"
+  },
+  {
+    "name": "OpenJDK 21",
+    "id": "EclipseAdoptium.Temurin.21",
+    "cmd": "winget install -e --id EclipseAdoptium.Temurin.21",
+    "category": "developer",
+    "icon": "adoptium.net"
+  },
+  {
+    "name": "Perl (Strawberry)",
+    "id": "StrawberryPerl.StrawberryPerl",
+    "cmd": "winget install -e --id StrawberryPerl.StrawberryPerl",
+    "category": "developer",
+    "icon": "perl.org"
+  },
+  {
+    "name": "PHP",
+    "id": "PHP.PHP",
+    "cmd": "winget install -e --id PHP.PHP",
+    "category": "developer",
+    "icon": "php.net"
+  },
+  {
+    "name": "PhpStorm",
+    "id": "JetBrains.PhpStorm",
+    "cmd": "winget install -e --id JetBrains.PhpStorm",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "pnpm",
+    "id": "pnpm.pnpm",
+    "cmd": "winget install -e --id pnpm.pnpm",
+    "category": "developer",
+    "icon": "pnpm.io"
+  },
+  {
+    "name": "Postman",
+    "id": "Postman.Postman",
+    "cmd": "winget install -e --id Postman.Postman",
+    "category": "developer",
+    "icon": "postman.com"
+  },
+  {
+    "name": "PowerShell",
+    "id": "Microsoft.PowerShell",
+    "cmd": "winget install -e --id Microsoft.PowerShell",
+    "category": "developer",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "PyCharm Community",
+    "id": "JetBrains.PyCharm.Community",
+    "cmd": "winget install -e --id JetBrains.PyCharm.Community",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "Python 3.12",
+    "id": "Python.Python.3.12",
+    "cmd": "winget install -e --id Python.Python.3.12",
+    "category": "developer",
+    "icon": "python.org"
+  },
+  {
+    "name": "Redis Desktop Manager",
+    "id": "Redis.RedisDesktopManager",
+    "cmd": "winget install -e --id Redis.RedisDesktopManager",
+    "category": "developer",
+    "icon": "redis.io"
+  },
+  {
+    "name": "Ruby",
+    "id": "RubyInstallerTeam.Ruby",
+    "cmd": "winget install -e --id RubyInstallerTeam.Ruby",
+    "category": "developer",
+    "icon": "ruby-lang.org"
+  },
+  {
+    "name": "Rust",
+    "id": "Rustlang.Rust.MSVC",
+    "cmd": "winget install -e --id Rustlang.Rust.MSVC",
+    "category": "developer",
+    "icon": "rust-lang.org"
+  },
+  {
+    "name": "Selenium IDE",
+    "id": "Selenium.IDE",
+    "cmd": "winget install -e --id Selenium.IDE",
+    "category": "developer",
+    "icon": "selenium.dev"
+  },
+  {
+    "name": "SourceTree",
+    "id": "Atlassian.SourceTree",
+    "cmd": "winget install -e --id Atlassian.SourceTree",
+    "category": "developer",
+    "icon": "sourcetreeapp.com"
+  },
+  {
+    "name": "SQLite Browser",
+    "id": "sqlitebrowser.sqlitebrowser",
+    "cmd": "winget install -e --id sqlitebrowser.sqlitebrowser",
+    "category": "developer",
+    "icon": "sqlitebrowser.org"
+  },
+  {
+    "name": "Sublime Merge",
+    "id": "SublimeHQ.SublimeMerge",
+    "cmd": "winget install -e --id SublimeHQ.SublimeMerge",
+    "category": "developer",
+    "icon": "sublimemerge.com"
+  },
+  {
+    "name": "Sublime Text 4",
+    "id": "SublimeHQ.SublimeText.4",
+    "cmd": "winget install -e --id SublimeHQ.SublimeText.4",
+    "category": "developer",
+    "icon": "sublimetext.com"
+  },
+  {
+    "name": "TablePlus",
+    "id": "TablePlus.TablePlus",
+    "cmd": "winget install -e --id TablePlus.TablePlus",
+    "category": "developer",
+    "icon": "tableplus.com"
+  },
+  {
+    "name": "JetBrains Toolbox",
+    "id": "JetBrains.Toolbox",
+    "cmd": "winget install -e --id JetBrains.Toolbox",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "TortoiseGit",
+    "id": "TortoiseGit.TortoiseGit",
+    "cmd": "winget install -e --id TortoiseGit.TortoiseGit",
+    "category": "developer",
+    "icon": "tortoisegit.org"
+  },
+  {
+    "name": "TortoiseSVN",
+    "id": "TortoiseSVN.TortoiseSVN",
+    "cmd": "winget install -e --id TortoiseSVN.TortoiseSVN",
+    "category": "developer",
+    "icon": "tortoisesvn.net"
+  },
+  {
+    "name": "VirtualBox",
+    "id": "Oracle.VirtualBox",
+    "cmd": "winget install -e --id Oracle.VirtualBox",
+    "category": "developer",
+    "icon": "virtualbox.org"
+  },
+  {
+    "name": "Visual Studio Build Tools",
+    "id": "Microsoft.VisualStudio.2022.BuildTools",
+    "cmd": "winget install -e --id Microsoft.VisualStudio.2022.BuildTools",
+    "category": "developer",
+    "icon": "visualstudio.microsoft.com"
+  },
+  {
+    "name": "Visual Studio 2022 Community",
+    "id": "Microsoft.VisualStudio.2022.Community",
+    "cmd": "winget install -e --id Microsoft.VisualStudio.2022.Community",
+    "category": "developer",
+    "icon": "visualstudio.microsoft.com"
+  },
+  {
+    "name": "Visual Studio Code",
+    "id": "Microsoft.VisualStudioCode",
+    "cmd": "winget install -e --id Microsoft.VisualStudioCode",
+    "category": "developer",
+    "icon": "visualstudio.com"
+  },
+  {
+    "name": "VMware Workstation Player",
+    "id": "VMware.WorkstationPlayer",
+    "cmd": "winget install -e --id VMware.WorkstationPlayer",
+    "category": "developer",
+    "icon": "vmware.com"
+  },
+  {
+    "name": "WampServer",
+    "id": "WampServer.WampServer",
+    "cmd": "winget install -e --id WampServer.WampServer",
+    "category": "developer",
+    "icon": "wampserver.com"
+  },
+  {
+    "name": "WebStorm",
+    "id": "JetBrains.WebStorm",
+    "cmd": "winget install -e --id JetBrains.WebStorm",
+    "category": "developer",
+    "icon": "jetbrains.com"
+  },
+  {
+    "name": "Windows Terminal",
+    "id": "Microsoft.WindowsTerminal",
+    "cmd": "winget install -e --id Microsoft.WindowsTerminal",
+    "category": "developer",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Wireshark",
+    "id": "WiresharkFoundation.Wireshark",
+    "cmd": "winget install -e --id WiresharkFoundation.Wireshark",
+    "category": "developer",
+    "icon": "wireshark.org"
+  },
+  {
+    "name": "XAMPP",
+    "id": "ApacheFriends.Xampp.8.2",
+    "cmd": "winget install -e --id ApacheFriends.Xampp.8.2",
+    "category": "developer",
+    "icon": "apachefriends.org"
+  },
+  {
+    "name": "Yarn",
+    "id": "Yarn.Yarn",
+    "cmd": "winget install -e --id Yarn.Yarn",
+    "category": "developer",
+    "icon": "yarnpkg.com"
+  },
+  {
+    "name": "Adobe Acrobat Reader",
+    "id": "Adobe.Acrobat.Reader.64-bit",
+    "cmd": "winget install -e --id Adobe.Acrobat.Reader.64-bit",
+    "category": "office",
+    "icon": "adobe.com"
+  },
+  {
+    "name": "Anki",
+    "id": "Anki.Anki",
+    "cmd": "winget install -e --id Anki.Anki",
+    "category": "office",
+    "icon": "apps.ankiweb.net"
+  },
+  {
+    "name": "Apache OpenOffice",
+    "id": "Apache.OpenOffice",
+    "cmd": "winget install -e --id Apache.OpenOffice",
+    "category": "office",
+    "icon": "openoffice.org"
+  },
+  {
+    "name": "Asana",
+    "id": "Asana.Asana",
+    "cmd": "winget install -e --id Asana.Asana",
+    "category": "office",
+    "icon": "asana.com"
+  },
+  {
+    "name": "Calibre",
+    "id": "Calibre.Calibre",
+    "cmd": "winget install -e --id Calibre.Calibre",
+    "category": "office",
+    "icon": "calibre-ebook.com"
+  },
+  {
+    "name": "CherryTree",
+    "id": "giuspen.CherryTree",
+    "cmd": "winget install -e --id giuspen.CherryTree",
+    "category": "office",
+    "icon": "giuspen.com"
+  },
+  {
+    "name": "ClickUp",
+    "id": "ClickUp.ClickUp",
+    "cmd": "winget install -e --id ClickUp.ClickUp",
+    "category": "office",
+    "icon": "clickup.com"
+  },
+  {
+    "name": "draw.io",
+    "id": "jgraph.drawio.desktop",
+    "cmd": "winget install -e --id jgraph.drawio.desktop",
+    "category": "office",
+    "icon": "draw.io"
+  },
+  {
+    "name": "Evernote",
+    "id": "Evernote.Evernote",
+    "cmd": "winget install -e --id Evernote.Evernote",
+    "category": "office",
+    "icon": "evernote.com"
+  },
+  {
+    "name": "Foxit Reader",
+    "id": "Foxit.FoxitReader",
+    "cmd": "winget install -e --id Foxit.FoxitReader",
+    "category": "office",
+    "icon": "foxit.com"
+  },
+  {
+    "name": "FreeMind",
+    "id": "FreeMind.FreeMind",
+    "cmd": "winget install -e --id FreeMind.FreeMind",
+    "category": "office",
+    "icon": "freemind.sourceforge.net"
+  },
+  {
+    "name": "FreeOffice",
+    "id": "SoftMaker.FreeOffice",
+    "cmd": "winget install -e --id SoftMaker.FreeOffice",
+    "category": "office",
+    "icon": "softmaker.com"
+  },
+  {
+    "name": "Freeplane",
+    "id": "Freeplane.Freeplane",
+    "cmd": "winget install -e --id Freeplane.Freeplane",
+    "category": "office",
+    "icon": "freeplane.org"
+  },
+  {
+    "name": "GanttProject",
+    "id": "GanttProject.GanttProject",
+    "cmd": "winget install -e --id GanttProject.GanttProject",
+    "category": "office",
+    "icon": "ganttproject.biz"
+  },
+  {
+    "name": "Grammarly",
+    "id": "Grammarly.Grammarly",
+    "cmd": "winget install -e --id Grammarly.Grammarly",
+    "category": "office",
+    "icon": "grammarly.com"
+  },
+  {
+    "name": "Joplin",
+    "id": "Joplin.Joplin",
+    "cmd": "winget install -e --id Joplin.Joplin",
+    "category": "office",
+    "icon": "joplinapp.org"
+  },
+  {
+    "name": "LanguageTool",
+    "id": "LanguageTool.LanguageTool",
+    "cmd": "winget install -e --id LanguageTool.LanguageTool",
+    "category": "office",
+    "icon": "languagetool.org"
+  },
+  {
+    "name": "LibreOffice",
+    "id": "TheDocumentFoundation.LibreOffice",
+    "cmd": "winget install -e --id TheDocumentFoundation.LibreOffice",
+    "category": "office",
+    "icon": "libreoffice.org"
+  },
+  {
+    "name": "Mendeley",
+    "id": "Mendeley.ReferenceManager",
+    "cmd": "winget install -e --id Mendeley.ReferenceManager",
+    "category": "office",
+    "icon": "mendeley.com"
+  },
+  {
+    "name": "Microsoft 365",
+    "id": "Microsoft.Office",
+    "cmd": "winget install -e --id Microsoft.Office",
+    "category": "office",
+    "icon": "office.com"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "id": "Microsoft.OneNote",
+    "cmd": "winget install -e --id Microsoft.OneNote",
+    "category": "office",
+    "icon": "onenote.com"
+  },
+  {
+    "name": "Microsoft Power BI",
+    "id": "Microsoft.PowerBIDesktop",
+    "cmd": "winget install -e --id Microsoft.PowerBIDesktop",
+    "category": "office",
+    "icon": "powerbi.microsoft.com"
+  },
+  {
+    "name": "Microsoft To Do",
+    "id": "Microsoft.ToDo",
+    "cmd": "winget install -e --id Microsoft.ToDo",
+    "category": "office",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Notion",
+    "id": "Notion.Notion",
+    "cmd": "winget install -e --id Notion.Notion",
+    "category": "office",
+    "icon": "notion.so"
+  },
+  {
+    "name": "Obsidian",
+    "id": "Obsidian.Obsidian",
+    "cmd": "winget install -e --id Obsidian.Obsidian",
+    "category": "office",
+    "icon": "obsidian.md"
+  },
+  {
+    "name": "OnlyOffice",
+    "id": "ONLYOFFICE.DesktopEditors",
+    "cmd": "winget install -e --id ONLYOFFICE.DesktopEditors",
+    "category": "office",
+    "icon": "onlyoffice.com"
+  },
+  {
+    "name": "ProjectLibre",
+    "id": "ProjectLibre.ProjectLibre",
+    "cmd": "winget install -e --id ProjectLibre.ProjectLibre",
+    "category": "office",
+    "icon": "projectlibre.com"
+  },
+  {
+    "name": "Simplenote",
+    "id": "Automattic.Simplenote",
+    "cmd": "winget install -e --id Automattic.Simplenote",
+    "category": "office",
+    "icon": "simplenote.com"
+  },
+  {
+    "name": "Standard Notes",
+    "id": "StandardNotes.StandardNotes",
+    "cmd": "winget install -e --id StandardNotes.StandardNotes",
+    "category": "office",
+    "icon": "standardnotes.com"
+  },
+  {
+    "name": "SumatraPDF",
+    "id": "SumatraPDF.SumatraPDF",
+    "cmd": "winget install -e --id SumatraPDF.SumatraPDF",
+    "category": "office",
+    "icon": "sumatrapdfreader.org"
+  },
+  {
+    "name": "Tableau Public",
+    "id": "Tableau.Public",
+    "cmd": "winget install -e --id Tableau.Public",
+    "category": "office",
+    "icon": "tableau.com"
+  },
+  {
+    "name": "TiddlyWiki",
+    "id": "Jermolene.TiddlyDesktop",
+    "cmd": "winget install -e --id Jermolene.TiddlyDesktop",
+    "category": "office",
+    "icon": "tiddlywiki.com"
+  },
+  {
+    "name": "Todoist",
+    "id": "Todoist.Todoist",
+    "cmd": "winget install -e --id Todoist.Todoist",
+    "category": "office",
+    "icon": "todoist.com"
+  },
+  {
+    "name": "Trello",
+    "id": "Trello.Trello",
+    "cmd": "winget install -e --id Trello.Trello",
+    "category": "office",
+    "icon": "trello.com"
+  },
+  {
+    "name": "Typora",
+    "id": "Typora.Typora",
+    "cmd": "winget install -e --id Typora.Typora",
+    "category": "office",
+    "icon": "typora.io"
+  },
+  {
+    "name": "WPS Office",
+    "id": "Kingsoft.WPSOffice",
+    "cmd": "winget install -e --id Kingsoft.WPSOffice",
+    "category": "office",
+    "icon": "wps.com"
+  },
+  {
+    "name": "Xmind",
+    "id": "XMind.XMind",
+    "cmd": "winget install -e --id XMind.XMind",
+    "category": "office",
+    "icon": "xmind.net"
+  },
+  {
+    "name": "Zettlr",
+    "id": "Zettlr.Zettlr",
+    "cmd": "winget install -e --id Zettlr.Zettlr",
+    "category": "office",
+    "icon": "zettlr.com"
+  },
+  {
+    "name": "Zotero",
+    "id": "Zotero.Zotero",
+    "cmd": "winget install -e --id Zotero.Zotero",
+    "category": "office",
+    "icon": "zotero.org"
+  },
+  {
+    "name": "4K Video Downloader",
+    "id": "OpenMedia.4KVideoDownloader",
+    "cmd": "winget install -e --id OpenMedia.4KVideoDownloader",
+    "category": "media",
+    "icon": "4kdownload.com"
+  },
+  {
+    "name": "AIMP",
+    "id": "AIMP.AIMP",
+    "cmd": "winget install -e --id AIMP.AIMP",
+    "category": "media",
+    "icon": "aimp.ru"
+  },
+  {
+    "name": "Amazon Music",
+    "id": "Amazon.Music",
+    "cmd": "winget install -e --id Amazon.Music",
+    "category": "media",
+    "icon": "amazon.com"
+  },
+  {
+    "name": "Ardour",
+    "id": "Ardour.Ardour",
+    "cmd": "winget install -e --id Ardour.Ardour",
+    "category": "media",
+    "icon": "ardour.org"
+  },
+  {
+    "name": "Audacious",
+    "id": "Audacious.Audacious",
+    "cmd": "winget install -e --id Audacious.Audacious",
+    "category": "media",
+    "icon": "audacious-media-player.org"
+  },
+  {
+    "name": "Audacity",
+    "id": "Audacity.Audacity",
+    "cmd": "winget install -e --id Audacity.Audacity",
+    "category": "media",
+    "icon": "audacityteam.org"
+  },
+  {
+    "name": "Avidemux",
+    "id": "Avidemux.Avidemux",
+    "cmd": "winget install -e --id Avidemux.Avidemux",
+    "category": "media",
+    "icon": "avidemux.org"
+  },
+  {
+    "name": "Blender",
+    "id": "BlenderFoundation.Blender",
+    "cmd": "winget install -e --id BlenderFoundation.Blender",
+    "category": "media",
+    "icon": "blender.org"
+  },
+  {
+    "name": "Cakewalk",
+    "id": "BandLab.Cakewalk",
+    "cmd": "winget install -e --id BandLab.Cakewalk",
+    "category": "media",
+    "icon": "bandlab.com"
+  },
+  {
+    "name": "Cider (Apple Music)",
+    "id": "CiderCollective.Cider",
+    "cmd": "winget install -e --id CiderCollective.Cider",
+    "category": "media",
+    "icon": "cider.sh"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "id": "BlackmagicDesign.DaVinciResolve",
+    "cmd": "winget install -e --id BlackmagicDesign.DaVinciResolve",
+    "category": "media",
+    "icon": "blackmagicdesign.com"
+  },
+  {
+    "name": "darktable",
+    "id": "darktable.darktable",
+    "cmd": "winget install -e --id darktable.darktable",
+    "category": "media",
+    "icon": "darktable.org"
+  },
+  {
+    "name": "Deezer",
+    "id": "Deezer.Deezer",
+    "cmd": "winget install -e --id Deezer.Deezer",
+    "category": "media",
+    "icon": "deezer.com"
+  },
+  {
+    "name": "Emby Server",
+    "id": "Emby.EmbyServer",
+    "cmd": "winget install -e --id Emby.EmbyServer",
+    "category": "media",
+    "icon": "emby.media"
+  },
+  {
+    "name": "FFmpeg",
+    "id": "Gyan.FFmpeg",
+    "cmd": "winget install -e --id Gyan.FFmpeg",
+    "category": "media",
+    "icon": "ffmpeg.org"
+  },
+  {
+    "name": "FL Studio",
+    "id": "Image-Line.FLStudio",
+    "cmd": "winget install -e --id Image-Line.FLStudio",
+    "category": "media",
+    "icon": "image-line.com"
+  },
+  {
+    "name": "foobar2000",
+    "id": "PeterPawlowski.foobar2000",
+    "cmd": "winget install -e --id PeterPawlowski.foobar2000",
+    "category": "media",
+    "icon": "foobar2000.org"
+  },
+  {
+    "name": "GIMP",
+    "id": "GIMP.GIMP",
+    "cmd": "winget install -e --id GIMP.GIMP",
+    "category": "media",
+    "icon": "gimp.org"
+  },
+  {
+    "name": "HandBrake",
+    "id": "HandBrake.HandBrake",
+    "cmd": "winget install -e --id HandBrake.HandBrake",
+    "category": "media",
+    "icon": "handbrake.fr"
+  },
+  {
+    "name": "ImageMagick",
+    "id": "ImageMagick.ImageMagick",
+    "cmd": "winget install -e --id ImageMagick.ImageMagick",
+    "category": "media",
+    "icon": "imagemagick.org"
+  },
+  {
+    "name": "Inkscape",
+    "id": "Inkscape.Inkscape",
+    "cmd": "winget install -e --id Inkscape.Inkscape",
+    "category": "media",
+    "icon": "inkscape.org"
+  },
+  {
+    "name": "iTunes",
+    "id": "Apple.iTunes",
+    "cmd": "winget install -e --id Apple.iTunes",
+    "category": "media",
+    "icon": "apple.com"
+  },
+  {
+    "name": "Jellyfin Media Player",
+    "id": "Jellyfin.JellyfinMediaPlayer",
+    "cmd": "winget install -e --id Jellyfin.JellyfinMediaPlayer",
+    "category": "media",
+    "icon": "jellyfin.org"
+  },
+  {
+    "name": "Kdenlive",
+    "id": "KDE.Kdenlive",
+    "cmd": "winget install -e --id KDE.Kdenlive",
+    "category": "media",
+    "icon": "kdenlive.org"
+  },
+  {
+    "name": "K-Lite Codec Pack",
+    "id": "CodecGuide.K-LiteCodecPack.Full",
+    "cmd": "winget install -e --id CodecGuide.K-LiteCodecPack.Full",
+    "category": "media",
+    "icon": "codecguide.com"
+  },
+  {
+    "name": "Kodi",
+    "id": "Kodi.Kodi",
+    "cmd": "winget install -e --id Kodi.Kodi",
+    "category": "media",
+    "icon": "kodi.tv"
+  },
+  {
+    "name": "Krita",
+    "id": "Krita.Krita",
+    "cmd": "winget install -e --id Krita.Krita",
+    "category": "media",
+    "icon": "krita.org"
+  },
+  {
+    "name": "LICEcap",
+    "id": "Cockos.LICEcap",
+    "cmd": "winget install -e --id Cockos.LICEcap",
+    "category": "media",
+    "icon": "cockos.com"
+  },
+  {
+    "name": "LMMS",
+    "id": "LMMS.LMMS",
+    "cmd": "winget install -e --id LMMS.LMMS",
+    "category": "media",
+    "icon": "lmms.io"
+  },
+  {
+    "name": "Luminance HDR",
+    "id": "LuminanceHDR.LuminanceHDR",
+    "cmd": "winget install -e --id LuminanceHDR.LuminanceHDR",
+    "category": "media",
+    "icon": "qtpfsgui.sourceforge.io"
+  },
+  {
+    "name": "MediaInfo",
+    "id": "MediaArea.MediaInfo",
+    "cmd": "winget install -e --id MediaArea.MediaInfo",
+    "category": "media",
+    "icon": "mediaarea.net"
+  },
+  {
+    "name": "Mixxx",
+    "id": "Mixxx.Mixxx",
+    "cmd": "winget install -e --id Mixxx.Mixxx",
+    "category": "media",
+    "icon": "mixxx.org"
+  },
+  {
+    "name": "MKVToolNix",
+    "id": "MKVToolNix.MKVToolNix",
+    "cmd": "winget install -e --id MKVToolNix.MKVToolNix",
+    "category": "media",
+    "icon": "mkvtoolnix.download"
+  },
+  {
+    "name": "MPC-HC",
+    "id": "clsid2.mpc-hc",
+    "cmd": "winget install -e --id clsid2.mpc-hc",
+    "category": "media",
+    "icon": "mpc-hc.org"
+  },
+  {
+    "name": "MPC-BE",
+    "id": "MPC-BE.MPC-BE",
+    "cmd": "winget install -e --id MPC-BE.MPC-BE",
+    "category": "media",
+    "icon": "sourceforge.net"
+  },
+  {
+    "name": "MuseScore",
+    "id": "MuseScore.MuseScore",
+    "cmd": "winget install -e --id MuseScore.MuseScore",
+    "category": "media",
+    "icon": "musescore.org"
+  },
+  {
+    "name": "MusicBee",
+    "id": "StevenMayall.MusicBee",
+    "cmd": "winget install -e --id StevenMayall.MusicBee",
+    "category": "media",
+    "icon": "getmusicbee.com"
+  },
+  {
+    "name": "nomacs",
+    "id": "nomacs.nomacs",
+    "cmd": "winget install -e --id nomacs.nomacs",
+    "category": "media",
+    "icon": "nomacs.org"
+  },
+  {
+    "name": "OBS Studio",
+    "id": "OBSProject.OBSStudio",
+    "cmd": "winget install -e --id OBSProject.OBSStudio",
+    "category": "media",
+    "icon": "obsproject.com"
+  },
+  {
+    "name": "OpenShot",
+    "id": "OpenShot.OpenShot",
+    "cmd": "winget install -e --id OpenShot.OpenShot",
+    "category": "media",
+    "icon": "openshot.org"
+  },
+  {
+    "name": "OpenToonz",
+    "id": "OpenToonz.OpenToonz",
+    "cmd": "winget install -e --id OpenToonz.OpenToonz",
+    "category": "media",
+    "icon": "opentoonz.github.io"
+  },
+  {
+    "name": "Paint.NET",
+    "id": "dotPDNLLC.paintdotnet",
+    "cmd": "winget install -e --id dotPDNLLC.paintdotnet",
+    "category": "media",
+    "icon": "getpaint.net"
+  },
+  {
+    "name": "Plexamp",
+    "id": "Plex.Plexamp",
+    "cmd": "winget install -e --id Plex.Plexamp",
+    "category": "media",
+    "icon": "plex.tv"
+  },
+  {
+    "name": "Plex HTPC",
+    "id": "Plex.PlexHTPC",
+    "cmd": "winget install -e --id Plex.PlexHTPC",
+    "category": "media",
+    "icon": "plex.tv"
+  },
+  {
+    "name": "Plex Media Server",
+    "id": "Plex.PlexMediaServer",
+    "cmd": "winget install -e --id Plex.PlexMediaServer",
+    "category": "media",
+    "icon": "plex.tv"
+  },
+  {
+    "name": "PotPlayer",
+    "id": "Daum.PotPlayer",
+    "cmd": "winget install -e --id Daum.PotPlayer",
+    "category": "media",
+    "icon": "potplayer.daum.net"
+  },
+  {
+    "name": "RawTherapee",
+    "id": "RawTherapee.RawTherapee",
+    "cmd": "winget install -e --id RawTherapee.RawTherapee",
+    "category": "media",
+    "icon": "rawtherapee.com"
+  },
+  {
+    "name": "Reaper",
+    "id": "Cockos.Reaper",
+    "cmd": "winget install -e --id Cockos.Reaper",
+    "category": "media",
+    "icon": "reaper.fm"
+  },
+  {
+    "name": "ScreenToGif",
+    "id": "ScreenToGif.ScreenToGif",
+    "cmd": "winget install -e --id ScreenToGif.ScreenToGif",
+    "category": "media",
+    "icon": "screentogif.com"
+  },
+  {
+    "name": "Scribus",
+    "id": "Scribus.Scribus",
+    "cmd": "winget install -e --id Scribus.Scribus",
+    "category": "media",
+    "icon": "scribus.net"
+  },
+  {
+    "name": "Shotcut",
+    "id": "Meltytech.Shotcut",
+    "cmd": "winget install -e --id Meltytech.Shotcut",
+    "category": "media",
+    "icon": "shotcut.org"
+  },
+  {
+    "name": "Shutter Encoder",
+    "id": "Paullouis.ShutterEncoder",
+    "cmd": "winget install -e --id Paullouis.ShutterEncoder",
+    "category": "media",
+    "icon": "shutterencoder.com"
+  },
+  {
+    "name": "SMPlayer",
+    "id": "SMPlayer.SMPlayer",
+    "cmd": "winget install -e --id SMPlayer.SMPlayer",
+    "category": "media",
+    "icon": "smplayer.info"
+  },
+  {
+    "name": "SoundSwitch",
+    "id": "SoundSwitch.SoundSwitch",
+    "cmd": "winget install -e --id SoundSwitch.SoundSwitch",
+    "category": "media",
+    "icon": "soundswitch.audio"
+  },
+  {
+    "name": "Spotify",
+    "id": "Spotify.Spotify",
+    "cmd": "winget install -e --id Spotify.Spotify",
+    "category": "media",
+    "icon": "spotify.com"
+  },
+  {
+    "name": "StaxRip",
+    "id": "StaxRip.StaxRip",
+    "cmd": "winget install -e --id StaxRip.StaxRip",
+    "category": "media",
+    "icon": "staxrip.net"
+  },
+  {
+    "name": "Stremio",
+    "id": "Stremio.Stremio",
+    "cmd": "winget install -e --id Stremio.Stremio",
+    "category": "media",
+    "icon": "stremio.com"
+  },
+  {
+    "name": "Synfig Studio",
+    "id": "Synfig.SynfigStudio",
+    "cmd": "winget install -e --id Synfig.SynfigStudio",
+    "category": "media",
+    "icon": "synfig.org"
+  },
+  {
+    "name": "Tidal",
+    "id": "TIDAL.TIDAL",
+    "cmd": "winget install -e --id TIDAL.TIDAL",
+    "category": "media",
+    "icon": "tidal.com"
+  },
+  {
+    "name": "VLC Media Player",
+    "id": "VideoLAN.VLC",
+    "cmd": "winget install -e --id VideoLAN.VLC",
+    "category": "media",
+    "icon": "videolan.org"
+  },
+  {
+    "name": "Winamp",
+    "id": "Winamp.Winamp",
+    "cmd": "winget install -e --id Winamp.Winamp",
+    "category": "media",
+    "icon": "winamp.com"
+  },
+  {
+    "name": "XMedia Recode",
+    "id": "XMediaRecode.XMediaRecode",
+    "cmd": "winget install -e --id XMediaRecode.XMediaRecode",
+    "category": "media",
+    "icon": "xmedia-recode.de"
+  },
+  {
+    "name": "XnViewMP",
+    "id": "XnSoft.XnViewMP",
+    "cmd": "winget install -e --id XnSoft.XnViewMP",
+    "category": "media",
+    "icon": "xnview.com"
+  },
+  {
+    "name": "youtube-dl",
+    "id": "youtube-dl.youtube-dl",
+    "cmd": "winget install -e --id youtube-dl.youtube-dl",
+    "category": "media",
+    "icon": "youtube-dl.org"
+  },
+  {
+    "name": "YouTube Music Desktop",
+    "id": "ytmdesktop.ytmdesktop",
+    "cmd": "winget install -e --id ytmdesktop.ytmdesktop",
+    "category": "media",
+    "icon": "ytmdesktop.app"
+  },
+  {
+    "name": "yt-dlp",
+    "id": "yt-dlp.yt-dlp",
+    "cmd": "winget install -e --id yt-dlp.yt-dlp",
+    "category": "media",
+    "icon": "github.com"
+  },
+  {
+    "name": "Anaconda",
+    "id": "Anaconda.Anaconda3",
+    "cmd": "winget install -e --id Anaconda.Anaconda3",
+    "category": "education",
+    "icon": "anaconda.com"
+  },
+  {
+    "name": "Celestia",
+    "id": "Celestia.Celestia",
+    "cmd": "winget install -e --id Celestia.Celestia",
+    "category": "education",
+    "icon": "celestia.space"
+  },
+  {
+    "name": "Folding@home",
+    "id": "FoldingAtHome.Client",
+    "cmd": "winget install -e --id FoldingAtHome.Client",
+    "category": "education",
+    "icon": "foldingathome.org"
+  },
+  {
+    "name": "GeoGebra",
+    "id": "GeoGebra.GeoGebra",
+    "cmd": "winget install -e --id GeoGebra.GeoGebra",
+    "category": "education",
+    "icon": "geogebra.org"
+  },
+  {
+    "name": "Google Earth Pro",
+    "id": "Google.EarthPro",
+    "cmd": "winget install -e --id Google.EarthPro",
+    "category": "education",
+    "icon": "google.com"
+  },
+  {
+    "name": "Julia",
+    "id": "JuliaLang.Julia",
+    "cmd": "winget install -e --id JuliaLang.Julia",
+    "category": "education",
+    "icon": "julialang.org"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "id": "Jupyter.Notebook",
+    "cmd": "winget install -e --id Jupyter.Notebook",
+    "category": "education",
+    "icon": "jupyter.org"
+  },
+  {
+    "name": "LyX",
+    "id": "LyX.LyX",
+    "cmd": "winget install -e --id LyX.LyX",
+    "category": "education",
+    "icon": "lyx.org"
+  },
+  {
+    "name": "MATLAB",
+    "id": "MathWorks.MATLAB",
+    "cmd": "winget install -e --id MathWorks.MATLAB",
+    "category": "education",
+    "icon": "mathworks.com"
+  },
+  {
+    "name": "Mendeley Desktop",
+    "id": "Mendeley.MendeleyDesktop",
+    "cmd": "winget install -e --id Mendeley.MendeleyDesktop",
+    "category": "education",
+    "icon": "mendeley.com"
+  },
+  {
+    "name": "MiKTeX",
+    "id": "MiKTeX.MiKTeX",
+    "cmd": "winget install -e --id MiKTeX.MiKTeX",
+    "category": "education",
+    "icon": "miktex.org"
+  },
+  {
+    "name": "Miniconda",
+    "id": "Anaconda.Miniconda3",
+    "cmd": "winget install -e --id Anaconda.Miniconda3",
+    "category": "education",
+    "icon": "anaconda.com"
+  },
+  {
+    "name": "Moodle Desktop",
+    "id": "Moodle.Desktop",
+    "cmd": "winget install -e --id Moodle.Desktop",
+    "category": "education",
+    "icon": "moodle.org"
+  },
+  {
+    "name": "NASA World Wind",
+    "id": "NASA.WorldWind",
+    "cmd": "winget install -e --id NASA.WorldWind",
+    "category": "education",
+    "icon": "nasa.gov"
+  },
+  {
+    "name": "GNU Octave",
+    "id": "GNOME.Octave",
+    "cmd": "winget install -e --id GNOME.Octave",
+    "category": "education",
+    "icon": "octave.org"
+  },
+  {
+    "name": "QGIS (LTR)",
+    "id": "QGIS.QGIS.LTR",
+    "cmd": "winget install -e --id QGIS.QGIS.LTR",
+    "category": "education",
+    "icon": "qgis.org"
+  },
+  {
+    "name": "R",
+    "id": "RProject.R",
+    "cmd": "winget install -e --id RProject.R",
+    "category": "education",
+    "icon": "r-project.org"
+  },
+  {
+    "name": "RStudio",
+    "id": "Posit.RStudio",
+    "cmd": "winget install -e --id Posit.RStudio",
+    "category": "education",
+    "icon": "rstudio.com"
+  },
+  {
+    "name": "Scilab",
+    "id": "Scilab.Scilab",
+    "cmd": "winget install -e --id Scilab.Scilab",
+    "category": "education",
+    "icon": "scilab.org"
+  },
+  {
+    "name": "SETI@home",
+    "id": "BOINC.SETIatHome",
+    "cmd": "winget install -e --id BOINC.SETIatHome",
+    "category": "education",
+    "icon": "setiathome.berkeley.edu"
+  },
+  {
+    "name": "Spyder",
+    "id": "Spyder-IDE.Spyder",
+    "cmd": "winget install -e --id Spyder-IDE.Spyder",
+    "category": "education",
+    "icon": "spyder-ide.org"
+  },
+  {
+    "name": "Stellarium",
+    "id": "Stellarium.Stellarium",
+    "cmd": "winget install -e --id Stellarium.Stellarium",
+    "category": "education",
+    "icon": "stellarium.org"
+  },
+  {
+    "name": "TeX Live",
+    "id": "TeXLive.TeXLive",
+    "cmd": "winget install -e --id TeXLive.TeXLive",
+    "category": "education",
+    "icon": "tug.org"
+  },
+  {
+    "name": "Wolfram Mathematica",
+    "id": "Wolfram.Mathematica",
+    "cmd": "winget install -e --id Wolfram.Mathematica",
+    "category": "education",
+    "icon": "wolfram.com"
+  },
+  {
+    "name": "Caprine (Messenger)",
+    "id": "sindresorhus.Caprine",
+    "cmd": "winget install -e --id sindresorhus.Caprine",
+    "category": "communication",
+    "icon": "github.com"
+  },
+  {
+    "name": "Claws Mail",
+    "id": "ClawsMail.ClawsMail",
+    "cmd": "winget install -e --id ClawsMail.ClawsMail",
+    "category": "communication",
+    "icon": "claws-mail.org"
+  },
+  {
+    "name": "Discord",
+    "id": "Discord.Discord",
+    "cmd": "winget install -e --id Discord.Discord",
+    "category": "communication",
+    "icon": "discord.com"
+  },
+  {
+    "name": "eM Client",
+    "id": "eMClient.eMClient",
+    "cmd": "winget install -e --id eMClient.eMClient",
+    "category": "communication",
+    "icon": "emclient.com"
+  },
+  {
+    "name": "Element",
+    "id": "Element.Element",
+    "cmd": "winget install -e --id Element.Element",
+    "category": "communication",
+    "icon": "element.io"
+  },
+  {
+    "name": "Franz",
+    "id": "meetfranz.Franz",
+    "cmd": "winget install -e --id meetfranz.Franz",
+    "category": "communication",
+    "icon": "meetfranz.com"
+  },
+  {
+    "name": "HexChat",
+    "id": "HexChat.HexChat",
+    "cmd": "winget install -e --id HexChat.HexChat",
+    "category": "communication",
+    "icon": "hexchat.github.io"
+  },
+  {
+    "name": "Mailspring",
+    "id": "Mailspring.Mailspring",
+    "cmd": "winget install -e --id Mailspring.Mailspring",
+    "category": "communication",
+    "icon": "getmailspring.com"
+  },
+  {
+    "name": "Mattermost",
+    "id": "Mattermost.Desktop",
+    "cmd": "winget install -e --id Mattermost.Desktop",
+    "category": "communication",
+    "icon": "mattermost.com"
+  },
+  {
+    "name": "Microsoft Teams",
+    "id": "Microsoft.Teams",
+    "cmd": "winget install -e --id Microsoft.Teams",
+    "category": "communication",
+    "icon": "teams.microsoft.com"
+  },
+  {
+    "name": "mIRC",
+    "id": "mIRC.mIRC",
+    "cmd": "winget install -e --id mIRC.mIRC",
+    "category": "communication",
+    "icon": "mirc.com"
+  },
+  {
+    "name": "Mumble",
+    "id": "Mumble.Mumble",
+    "cmd": "winget install -e --id Mumble.Mumble",
+    "category": "communication",
+    "icon": "mumble.info"
+  },
+  {
+    "name": "Pidgin",
+    "id": "Pidgin.Pidgin",
+    "cmd": "winget install -e --id Pidgin.Pidgin",
+    "category": "communication",
+    "icon": "pidgin.im"
+  },
+  {
+    "name": "qTox",
+    "id": "qTox.qTox",
+    "cmd": "winget install -e --id qTox.qTox",
+    "category": "communication",
+    "icon": "tox.chat"
+  },
+  {
+    "name": "Rambox",
+    "id": "Rambox.Rambox",
+    "cmd": "winget install -e --id Rambox.Rambox",
+    "category": "communication",
+    "icon": "rambox.pro"
+  },
+  {
+    "name": "Rocket.Chat",
+    "id": "RocketChat.RocketChat",
+    "cmd": "winget install -e --id RocketChat.RocketChat",
+    "category": "communication",
+    "icon": "rocket.chat"
+  },
+  {
+    "name": "Signal",
+    "id": "Signal.Signal",
+    "cmd": "winget install -e --id Signal.Signal",
+    "category": "communication",
+    "icon": "signal.org"
+  },
+  {
+    "name": "Skype",
+    "id": "Skype.Skype",
+    "cmd": "winget install -e --id Skype.Skype",
+    "category": "communication",
+    "icon": "skype.com"
+  },
+  {
+    "name": "Slack",
+    "id": "SlackTechnologies.Slack",
+    "cmd": "winget install -e --id SlackTechnologies.Slack",
+    "category": "communication",
+    "icon": "slack.com"
+  },
+  {
+    "name": "TeamSpeak Client",
+    "id": "TeamSpeakSystems.TeamSpeakClient",
+    "cmd": "winget install -e --id TeamSpeakSystems.TeamSpeakClient",
+    "category": "communication",
+    "icon": "teamspeak.com"
+  },
+  {
+    "name": "Telegram Desktop",
+    "id": "Telegram.TelegramDesktop",
+    "cmd": "winget install -e --id Telegram.TelegramDesktop",
+    "category": "communication",
+    "icon": "telegram.org"
+  },
+  {
+    "name": "Thunderbird",
+    "id": "Mozilla.Thunderbird",
+    "cmd": "winget install -e --id Mozilla.Thunderbird",
+    "category": "communication",
+    "icon": "thunderbird.net"
+  },
+  {
+    "name": "Trillian",
+    "id": "CeruleanStudios.Trillian",
+    "cmd": "winget install -e --id CeruleanStudios.Trillian",
+    "category": "communication",
+    "icon": "trillian.im"
+  },
+  {
+    "name": "Twitch",
+    "id": "Twitch.Twitch",
+    "cmd": "winget install -e --id Twitch.Twitch",
+    "category": "communication",
+    "icon": "twitch.tv"
+  },
+  {
+    "name": "Viber",
+    "id": "Viber.Viber",
+    "cmd": "winget install -e --id Viber.Viber",
+    "category": "communication",
+    "icon": "viber.com"
+  },
+  {
+    "name": "WeChat",
+    "id": "Tencent.WeChat",
+    "cmd": "winget install -e --id Tencent.WeChat",
+    "category": "communication",
+    "icon": "wechat.com"
+  },
+  {
+    "name": "WhatsApp Desktop",
+    "id": "WhatsApp.WhatsApp",
+    "cmd": "winget install -e --id WhatsApp.WhatsApp",
+    "category": "communication",
+    "icon": "whatsapp.com"
+  },
+  {
+    "name": "Wire",
+    "id": "Wire.Wire",
+    "cmd": "winget install -e --id Wire.Wire",
+    "category": "communication",
+    "icon": "wire.com"
+  },
+  {
+    "name": "Zoom",
+    "id": "Zoom.Zoom",
+    "cmd": "winget install -e --id Zoom.Zoom",
+    "category": "communication",
+    "icon": "zoom.us"
+  },
+  {
+    "name": "Amazon Games",
+    "id": "Amazon.Games",
+    "cmd": "winget install -e --id Amazon.Games",
+    "category": "gaming",
+    "icon": "amazon.com"
+  },
+  {
+    "name": "ATLauncher",
+    "id": "ATLauncher.ATLauncher",
+    "cmd": "winget install -e --id ATLauncher.ATLauncher",
+    "category": "gaming",
+    "icon": "atlauncher.com"
+  },
+  {
+    "name": "Battle.net",
+    "id": "Blizzard.BattleNet",
+    "cmd": "winget install -e --id Blizzard.BattleNet",
+    "category": "gaming",
+    "icon": "blizzard.com"
+  },
+  {
+    "name": "Cemu",
+    "id": "Cemu.Cemu",
+    "cmd": "winget install -e --id Cemu.Cemu",
+    "category": "gaming",
+    "icon": "cemu.info"
+  },
+  {
+    "name": "Cheat Engine",
+    "id": "CheatEngine.CheatEngine",
+    "cmd": "winget install -e --id CheatEngine.CheatEngine",
+    "category": "gaming",
+    "icon": "cheatengine.org"
+  },
+  {
+    "name": "Citra",
+    "id": "CitraEmu.Citra",
+    "cmd": "winget install -e --id CitraEmu.Citra",
+    "category": "gaming",
+    "icon": "citra-emu.org"
+  },
+  {
+    "name": "CurseForge",
+    "id": "Overwolf.CurseForge",
+    "cmd": "winget install -e --id Overwolf.CurseForge",
+    "category": "gaming",
+    "icon": "curseforge.com"
+  },
+  {
+    "name": "DeSmuME",
+    "id": "DeSmuME.DeSmuME",
+    "cmd": "winget install -e --id DeSmuME.DeSmuME",
+    "category": "gaming",
+    "icon": "desmume.org"
+  },
+  {
+    "name": "Dolphin Emulator",
+    "id": "DolphinEmulator.Dolphin",
+    "cmd": "winget install -e --id DolphinEmulator.Dolphin",
+    "category": "gaming",
+    "icon": "dolphin-emu.org"
+  },
+  {
+    "name": "DS4Windows",
+    "id": "Ryochan7.DS4Windows",
+    "cmd": "winget install -e --id Ryochan7.DS4Windows",
+    "category": "gaming",
+    "icon": "ryochan7.github.io"
+  },
+  {
+    "name": "EA App",
+    "id": "ElectronicArts.EADesktop",
+    "cmd": "winget install -e --id ElectronicArts.EADesktop",
+    "category": "gaming",
+    "icon": "ea.com"
+  },
+  {
+    "name": "Epic Games Launcher",
+    "id": "EpicGames.EpicGamesLauncher",
+    "cmd": "winget install -e --id EpicGames.EpicGamesLauncher",
+    "category": "gaming",
+    "icon": "epicgames.com"
+  },
+  {
+    "name": "GOG Galaxy",
+    "id": "GOG.Galaxy",
+    "cmd": "winget install -e --id GOG.Galaxy",
+    "category": "gaming",
+    "icon": "gog.com"
+  },
+  {
+    "name": "Humble App",
+    "id": "HumbleBundle.HumbleApp",
+    "cmd": "winget install -e --id HumbleBundle.HumbleApp",
+    "category": "gaming",
+    "icon": "humblebundle.com"
+  },
+  {
+    "name": "IndieGala Client",
+    "id": "IndieGala.Client",
+    "cmd": "winget install -e --id IndieGala.Client",
+    "category": "gaming",
+    "icon": "indiegala.com"
+  },
+  {
+    "name": "itch.io",
+    "id": "itch.itch",
+    "cmd": "winget install -e --id itch.itch",
+    "category": "gaming",
+    "icon": "itch.io"
+  },
+  {
+    "name": "JoyToKey",
+    "id": "JTKsoft.JoyToKey",
+    "cmd": "winget install -e --id JTKsoft.JoyToKey",
+    "category": "gaming",
+    "icon": "joytokey.net"
+  },
+  {
+    "name": "Lutris",
+    "id": "Lutris.Lutris",
+    "cmd": "winget install -e --id Lutris.Lutris",
+    "category": "gaming",
+    "icon": "lutris.net"
+  },
+  {
+    "name": "MAME",
+    "id": "MAME.MAME",
+    "cmd": "winget install -e --id MAME.MAME",
+    "category": "gaming",
+    "icon": "mamedev.org"
+  },
+  {
+    "name": "Mednafen",
+    "id": "Mednafen.Mednafen",
+    "cmd": "winget install -e --id Mednafen.Mednafen",
+    "category": "gaming",
+    "icon": "mednafen.github.io"
+  },
+  {
+    "name": "MSI Afterburner",
+    "id": "MSI.Afterburner",
+    "cmd": "winget install -e --id MSI.Afterburner",
+    "category": "gaming",
+    "icon": "msi.com"
+  },
+  {
+    "name": "MultiMC",
+    "id": "MultiMC.MultiMC",
+    "cmd": "winget install -e --id MultiMC.MultiMC",
+    "category": "gaming",
+    "icon": "multimc.org"
+  },
+  {
+    "name": "Overwolf",
+    "id": "Overwolf.Overwolf",
+    "cmd": "winget install -e --id Overwolf.Overwolf",
+    "category": "gaming",
+    "icon": "overwolf.com"
+  },
+  {
+    "name": "Parsec",
+    "id": "Parsec.Parsec",
+    "cmd": "winget install -e --id Parsec.Parsec",
+    "category": "gaming",
+    "icon": "parsec.app"
+  },
+  {
+    "name": "PCSX2",
+    "id": "PCSX2.PCSX2",
+    "cmd": "winget install -e --id PCSX2.PCSX2",
+    "category": "gaming",
+    "icon": "pcsx2.net"
+  },
+  {
+    "name": "Playnite",
+    "id": "JosefNemec.Playnite",
+    "cmd": "winget install -e --id JosefNemec.Playnite",
+    "category": "gaming",
+    "icon": "playnite.link"
+  },
+  {
+    "name": "PPSSPP",
+    "id": "hrydgard.PPSSPP",
+    "cmd": "winget install -e --id hrydgard.PPSSPP",
+    "category": "gaming",
+    "icon": "ppsspp.org"
+  },
+  {
+    "name": "RetroArch",
+    "id": "libretro.RetroArch",
+    "cmd": "winget install -e --id libretro.RetroArch",
+    "category": "gaming",
+    "icon": "retroarch.com"
+  },
+  {
+    "name": "Riot Client",
+    "id": "RiotGames.RiotClient",
+    "cmd": "winget install -e --id RiotGames.RiotClient",
+    "category": "gaming",
+    "icon": "riotgames.com"
+  },
+  {
+    "name": "RivaTuner Statistics Server",
+    "id": "Guru3D.RivaTunerStatisticsServer",
+    "cmd": "winget install -e --id Guru3D.RivaTunerStatisticsServer",
+    "category": "gaming",
+    "icon": "guru3d.com"
+  },
+  {
+    "name": "RPCS3",
+    "id": "RPCS3.RPCS3",
+    "cmd": "winget install -e --id RPCS3.RPCS3",
+    "category": "gaming",
+    "icon": "rpcs3.net"
+  },
+  {
+    "name": "Ryujinx",
+    "id": "Ryujinx.Ryujinx",
+    "cmd": "winget install -e --id Ryujinx.Ryujinx",
+    "category": "gaming",
+    "icon": "ryujinx.org"
+  },
+  {
+    "name": "Snes9x",
+    "id": "snes9x.snes9x",
+    "cmd": "winget install -e --id snes9x.snes9x",
+    "category": "gaming",
+    "icon": "snes9x.com"
+  },
+  {
+    "name": "Steam",
+    "id": "Valve.Steam",
+    "cmd": "winget install -e --id Valve.Steam",
+    "category": "gaming",
+    "icon": "steampowered.com"
+  },
+  {
+    "name": "Technic Launcher",
+    "id": "Slayer.TechnicLauncher",
+    "cmd": "winget install -e --id Slayer.TechnicLauncher",
+    "category": "gaming",
+    "icon": "technicpack.net"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "id": "Ubisoft.Connect",
+    "cmd": "winget install -e --id Ubisoft.Connect",
+    "category": "gaming",
+    "icon": "ubisoft.com"
+  },
+  {
+    "name": "VisualBoyAdvance-M",
+    "id": "visualboyadvance-m.visualboyadvance-m",
+    "cmd": "winget install -e --id visualboyadvance-m.visualboyadvance-m",
+    "category": "gaming",
+    "icon": "vba-m.com"
+  },
+  {
+    "name": "WeMod",
+    "id": "WeMod.WeMod",
+    "cmd": "winget install -e --id WeMod.WeMod",
+    "category": "gaming",
+    "icon": "wemod.com"
+  },
+  {
+    "name": "xemu",
+    "id": "xemu-project.xemu",
+    "cmd": "winget install -e --id xemu-project.xemu",
+    "category": "gaming",
+    "icon": "xemu.app"
+  },
+  {
+    "name": "Xenia",
+    "id": "xenia-project.xenia",
+    "cmd": "winget install -e --id xenia-project.xenia",
+    "category": "gaming",
+    "icon": "xenia.jp"
+  },
+  {
+    "name": "Xbox App",
+    "id": "Microsoft.XboxApp",
+    "cmd": "winget install -e --id Microsoft.XboxApp",
+    "category": "gaming",
+    "icon": "xbox.com"
+  },
+  {
+    "name": "yuzu",
+    "id": "yuzu-emu.yuzu",
+    "cmd": "winget install -e --id yuzu-emu.yuzu",
+    "category": "gaming",
+    "icon": "yuzu-emu.org"
+  },
+  {
+    "name": "1Password",
+    "id": "1Password.1Password",
+    "cmd": "winget install -e --id 1Password.1Password",
+    "category": "security",
+    "icon": "1password.com"
+  },
+  {
+    "name": "AdwCleaner",
+    "id": "Malwarebytes.AdwCleaner",
+    "cmd": "winget install -e --id Malwarebytes.AdwCleaner",
+    "category": "security",
+    "icon": "malwarebytes.com"
+  },
+  {
+    "name": "Authy Desktop",
+    "id": "Twilio.AuthyDesktop",
+    "cmd": "winget install -e --id Twilio.AuthyDesktop",
+    "category": "security",
+    "icon": "authy.com"
+  },
+  {
+    "name": "Avast Free Antivirus",
+    "id": "AVAST.AvastAntivirus",
+    "cmd": "winget install -e --id AVAST.AvastAntivirus",
+    "category": "security",
+    "icon": "avast.com"
+  },
+  {
+    "name": "AVG AntiVirus Free",
+    "id": "AVG.AVGantivirus",
+    "cmd": "winget install -e --id AVG.AVGantivirus",
+    "category": "security",
+    "icon": "avg.com"
+  },
+  {
+    "name": "Avira Free Security",
+    "id": "Avira.FreeSecurity",
+    "cmd": "winget install -e --id Avira.FreeSecurity",
+    "category": "security",
+    "icon": "avira.com"
+  },
+  {
+    "name": "Bitwarden",
+    "id": "Bitwarden.Bitwarden",
+    "cmd": "winget install -e --id Bitwarden.Bitwarden",
+    "category": "security",
+    "icon": "bitwarden.com"
+  },
+  {
+    "name": "Burp Suite Community",
+    "id": "PortSwigger.BurpSuite.Community",
+    "cmd": "winget install -e --id PortSwigger.BurpSuite.Community",
+    "category": "security",
+    "icon": "portswigger.net"
+  },
+  {
+    "name": "Comodo Internet Security",
+    "id": "Comodo.InternetSecurity",
+    "cmd": "winget install -e --id Comodo.InternetSecurity",
+    "category": "security",
+    "icon": "comodo.com"
+  },
+  {
+    "name": "Dashlane",
+    "id": "Dashlane.Dashlane",
+    "cmd": "winget install -e --id Dashlane.Dashlane",
+    "category": "security",
+    "icon": "dashlane.com"
+  },
+  {
+    "name": "ExpressVPN",
+    "id": "ExpressVPN.ExpressVPN",
+    "cmd": "winget install -e --id ExpressVPN.ExpressVPN",
+    "category": "security",
+    "icon": "expressvpn.com"
+  },
+  {
+    "name": "GlassWire",
+    "id": "GlassWire.GlassWire",
+    "cmd": "winget install -e --id GlassWire.GlassWire",
+    "category": "security",
+    "icon": "glasswire.com"
+  },
+  {
+    "name": "I2P",
+    "id": "i2p.i2p",
+    "cmd": "winget install -e --id i2p.i2p",
+    "category": "security",
+    "icon": "geti2p.net"
+  },
+  {
+    "name": "KeePass",
+    "id": "DominikReichl.KeePass",
+    "cmd": "winget install -e --id DominikReichl.KeePass",
+    "category": "security",
+    "icon": "keepass.info"
+  },
+  {
+    "name": "KeePassXC",
+    "id": "KeePassXCTeam.KeePassXC",
+    "cmd": "winget install -e --id KeePassXCTeam.KeePassXC",
+    "category": "security",
+    "icon": "keepassxc.org"
+  },
+  {
+    "name": "LastPass",
+    "id": "LogMeIn.LastPass",
+    "cmd": "winget install -e --id LogMeIn.LastPass",
+    "category": "security",
+    "icon": "lastpass.com"
+  },
+  {
+    "name": "Malwarebytes",
+    "id": "Malwarebytes.Malwarebytes",
+    "cmd": "winget install -e --id Malwarebytes.Malwarebytes",
+    "category": "security",
+    "icon": "malwarebytes.com"
+  },
+  {
+    "name": "Metasploit",
+    "id": "Rapid7.Metasploit",
+    "cmd": "winget install -e --id Rapid7.Metasploit",
+    "category": "security",
+    "icon": "metasploit.com"
+  },
+  {
+    "name": "Nmap",
+    "id": "Nmap.Nmap",
+    "cmd": "winget install -e --id Nmap.Nmap",
+    "category": "security",
+    "icon": "nmap.org"
+  },
+  {
+    "name": "NordVPN",
+    "id": "NordVPN.NordVPN",
+    "cmd": "winget install -e --id NordVPN.NordVPN",
+    "category": "security",
+    "icon": "nordvpn.com"
+  },
+  {
+    "name": "OpenDNS",
+    "id": "Cisco.OpenDNS",
+    "cmd": "winget install -e --id Cisco.OpenDNS",
+    "category": "security",
+    "icon": "opendns.com"
+  },
+  {
+    "name": "OpenVPN Connect",
+    "id": "OpenVPN.OpenVPNConnect",
+    "cmd": "winget install -e --id OpenVPN.OpenVPNConnect",
+    "category": "security",
+    "icon": "openvpn.net"
+  },
+  {
+    "name": "OWASP ZAP",
+    "id": "OWASP.ZAP",
+    "cmd": "winget install -e --id OWASP.ZAP",
+    "category": "security",
+    "icon": "zaproxy.org"
+  },
+  {
+    "name": "Proton Pass",
+    "id": "Proton.ProtonPass",
+    "cmd": "winget install -e --id Proton.ProtonPass",
+    "category": "security",
+    "icon": "proton.me"
+  },
+  {
+    "name": "Proton VPN",
+    "id": "Proton.ProtonVPN",
+    "cmd": "winget install -e --id Proton.ProtonVPN",
+    "category": "security",
+    "icon": "protonvpn.com"
+  },
+  {
+    "name": "Spybot Search & Destroy",
+    "id": "Safer-Networking.Spybot-SearchAndDestroy",
+    "cmd": "winget install -e --id Safer-Networking.Spybot-SearchAndDestroy",
+    "category": "security",
+    "icon": "safer-networking.org"
+  },
+  {
+    "name": "Windscribe",
+    "id": "Windscribe.Windscribe",
+    "cmd": "winget install -e --id Windscribe.Windscribe",
+    "category": "security",
+    "icon": "windscribe.com"
+  },
+  {
+    "name": "Yubico Authenticator",
+    "id": "Yubico.YubicoAuthenticator",
+    "cmd": "winget install -e --id Yubico.YubicoAuthenticator",
+    "category": "security",
+    "icon": "yubico.com"
+  },
+  {
+    "name": "Zenmap",
+    "id": "Nmap.Zenmap",
+    "cmd": "winget install -e --id Nmap.Zenmap",
+    "category": "security",
+    "icon": "nmap.org"
+  },
+  {
+    "name": "ZoneAlarm Free Firewall",
+    "id": "CheckPoint.ZoneAlarm",
+    "cmd": "winget install -e --id CheckPoint.ZoneAlarm",
+    "category": "security",
+    "icon": "zonealarm.com"
+  },
+  {
+    "name": "Box Drive",
+    "id": "Box.Box",
+    "cmd": "winget install -e --id Box.Box",
+    "category": "cloud",
+    "icon": "box.com"
+  },
+  {
+    "name": "Dropbox",
+    "id": "Dropbox.Dropbox",
+    "cmd": "winget install -e --id Dropbox.Dropbox",
+    "category": "cloud",
+    "icon": "dropbox.com"
+  },
+  {
+    "name": "Google Drive",
+    "id": "Google.Drive",
+    "cmd": "winget install -e --id Google.Drive",
+    "category": "cloud",
+    "icon": "google.com"
+  },
+  {
+    "name": "Icedrive",
+    "id": "IDrive.Icedrive",
+    "cmd": "winget install -e --id IDrive.Icedrive",
+    "category": "cloud",
+    "icon": "icedrive.net"
+  },
+  {
+    "name": "Koofr",
+    "id": "Koofr.Koofr",
+    "cmd": "winget install -e --id Koofr.Koofr",
+    "category": "cloud",
+    "icon": "koofr.eu"
+  },
+  {
+    "name": "MEGA",
+    "id": "MEGA.MEGAsync",
+    "cmd": "winget install -e --id MEGA.MEGAsync",
+    "category": "cloud",
+    "icon": "mega.nz"
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "id": "Microsoft.OneDrive",
+    "cmd": "winget install -e --id Microsoft.OneDrive",
+    "category": "cloud",
+    "icon": "onedrive.com"
+  },
+  {
+    "name": "Nextcloud Desktop",
+    "id": "Nextcloud.NextcloudDesktop",
+    "cmd": "winget install -e --id Nextcloud.NextcloudDesktop",
+    "category": "cloud",
+    "icon": "nextcloud.com"
+  },
+  {
+    "name": "ownCloud",
+    "id": "ownCloud.ownCloudDesktop",
+    "cmd": "winget install -e --id ownCloud.ownCloudDesktop",
+    "category": "cloud",
+    "icon": "owncloud.com"
+  },
+  {
+    "name": "pCloud Drive",
+    "id": "pCloud.pCloud",
+    "cmd": "winget install -e --id pCloud.pCloud",
+    "category": "cloud",
+    "icon": "pcloud.com"
+  },
+  {
+    "name": "SpiderOak",
+    "id": "SpiderOak.SpiderOakOne",
+    "cmd": "winget install -e --id SpiderOak.SpiderOakOne",
+    "category": "cloud",
+    "icon": "spideroak.com"
+  },
+  {
+    "name": "Sync.com",
+    "id": "Sync.Sync",
+    "cmd": "winget install -e --id Sync.Sync",
+    "category": "cloud",
+    "icon": "sync.com"
+  },
+  {
+    "name": "Tresorit",
+    "id": "Tresorit.Tresorit",
+    "cmd": "winget install -e --id Tresorit.Tresorit",
+    "category": "cloud",
+    "icon": "tresorit.com"
+  },
+  {
+    "name": "Affinity Designer",
+    "id": "Serif.AffinityDesigner",
+    "cmd": "winget install -e --id Serif.AffinityDesigner",
+    "category": "design",
+    "icon": "affinity.serif.com"
+  },
+  {
+    "name": "Affinity Photo",
+    "id": "Serif.AffinityPhoto",
+    "cmd": "winget install -e --id Serif.AffinityPhoto",
+    "category": "design",
+    "icon": "affinity.serif.com"
+  },
+  {
+    "name": "Affinity Publisher",
+    "id": "Serif.AffinityPublisher",
+    "cmd": "winget install -e --id Serif.AffinityPublisher",
+    "category": "design",
+    "icon": "affinity.serif.com"
+  },
+  {
+    "name": "Aseprite",
+    "id": "Aseprite.Aseprite",
+    "cmd": "winget install -e --id Aseprite.Aseprite",
+    "category": "design",
+    "icon": "aseprite.org"
+  },
+  {
+    "name": "Autodesk SketchBook",
+    "id": "Autodesk.SketchBook",
+    "cmd": "winget install -e --id Autodesk.SketchBook",
+    "category": "design",
+    "icon": "sketchbook.com"
+  },
+  {
+    "name": "Canva",
+    "id": "Canva.Canva",
+    "cmd": "winget install -e --id Canva.Canva",
+    "category": "design",
+    "icon": "canva.com"
+  },
+  {
+    "name": "CorelDRAW",
+    "id": "Corel.CorelDRAWGraphicsSuite",
+    "cmd": "winget install -e --id Corel.CorelDRAWGraphicsSuite",
+    "category": "design",
+    "icon": "coreldraw.com"
+  },
+  {
+    "name": "Figma",
+    "id": "Figma.Figma",
+    "cmd": "winget install -e --id Figma.Figma",
+    "category": "design",
+    "icon": "figma.com"
+  },
+  {
+    "name": "FontBase",
+    "id": "FontBase.FontBase",
+    "cmd": "winget install -e --id FontBase.FontBase",
+    "category": "design",
+    "icon": "fontba.se"
+  },
+  {
+    "name": "FreeCAD",
+    "id": "FreeCAD.FreeCAD",
+    "cmd": "winget install -e --id FreeCAD.FreeCAD",
+    "category": "design",
+    "icon": "freecadweb.org"
+  },
+  {
+    "name": "Godot Engine",
+    "id": "GodotEngine.Godot",
+    "cmd": "winget install -e --id GodotEngine.Godot",
+    "category": "design",
+    "icon": "godotengine.org"
+  },
+  {
+    "name": "Gravit Designer",
+    "id": "Gravit.Designer",
+    "cmd": "winget install -e --id Gravit.Designer",
+    "category": "design",
+    "icon": "designer.io"
+  },
+  {
+    "name": "MagicaVoxel",
+    "id": "ephtracy.MagicaVoxel",
+    "cmd": "winget install -e --id ephtracy.MagicaVoxel",
+    "category": "design",
+    "icon": "ephtracy.github.io"
+  },
+  {
+    "name": "MyPaint",
+    "id": "MyPaint.MyPaint",
+    "cmd": "winget install -e --id MyPaint.MyPaint",
+    "category": "design",
+    "icon": "mypaint.org"
+  },
+  {
+    "name": "Natron",
+    "id": "Natron.Natron",
+    "cmd": "winget install -e --id Natron.Natron",
+    "category": "design",
+    "icon": "natrongithub.github.io"
+  },
+  {
+    "name": "Pinta",
+    "id": "PintaProject.Pinta",
+    "cmd": "winget install -e --id PintaProject.Pinta",
+    "category": "design",
+    "icon": "pinta-project.com"
+  },
+  {
+    "name": "PureRef",
+    "id": "PureRef.PureRef",
+    "cmd": "winget install -e --id PureRef.PureRef",
+    "category": "design",
+    "icon": "pureref.com"
+  },
+  {
+    "name": "SketchUp Make",
+    "id": "Trimble.SketchUp.Make",
+    "cmd": "winget install -e --id Trimble.SketchUp.Make",
+    "category": "design",
+    "icon": "sketchup.com"
+  },
+  {
+    "name": "SketchUp Pro",
+    "id": "Trimble.SketchUpPro",
+    "cmd": "winget install -e --id Trimble.SketchUpPro",
+    "category": "design",
+    "icon": "sketchup.com"
+  },
+  {
+    "name": "Sweet Home 3D",
+    "id": "eTeks.SweetHome3D",
+    "cmd": "winget install -e --id eTeks.SweetHome3D",
+    "category": "design",
+    "icon": "sweethome3d.com"
+  },
+  {
+    "name": "Unity Hub",
+    "id": "Unity.UnityHub",
+    "cmd": "winget install -e --id Unity.UnityHub",
+    "category": "design",
+    "icon": "unity.com"
+  },
+  {
+    "name": "Unreal Engine",
+    "id": "EpicGames.UnrealEngine",
+    "cmd": "winget install -e --id EpicGames.UnrealEngine",
+    "category": "design",
+    "icon": "unrealengine.com"
+  },
+  {
+    "name": "Vectr",
+    "id": "Vectr.Vectr",
+    "cmd": "winget install -e --id Vectr.Vectr",
+    "category": "design",
+    "icon": "vectr.com"
+  },
+  {
+    "name": "AMD Adrenalin",
+    "id": "AMD.Auto-DetectandInstall",
+    "cmd": "winget install -e --id AMD.Auto-DetectandInstall",
+    "category": "misc",
+    "icon": "amd.com"
+  },
+  {
+    "name": "Chocolatey",
+    "id": "Chocolatey.Chocolatey",
+    "cmd": "winget install -e --id Chocolatey.Chocolatey",
+    "category": "misc",
+    "icon": "chocolatey.org"
+  },
+  {
+    "name": "Corsair iCUE 4",
+    "id": "Corsair.iCUE.4",
+    "cmd": "winget install -e --id Corsair.iCUE.4",
+    "category": "misc",
+    "icon": "corsair.com"
+  },
+  {
+    "name": "EarTrumpet",
+    "id": "File-New-Project.EarTrumpet",
+    "cmd": "winget install -e --id File-New-Project.EarTrumpet",
+    "category": "misc",
+    "icon": "eartrumpet.app"
+  },
+  {
+    "name": "f.lux",
+    "id": "Flux.f.lux",
+    "cmd": "winget install -e --id Flux.f.lux",
+    "category": "misc",
+    "icon": "justgetflux.com"
+  },
+  {
+    "name": "Lively Wallpaper",
+    "id": "rocksdanister.LivelyWallpaper",
+    "cmd": "winget install -e --id rocksdanister.LivelyWallpaper",
+    "category": "misc",
+    "icon": "rocksdanister.github.io"
+  },
+  {
+    "name": "Logitech G Hub",
+    "id": "Logitech.GHUB",
+    "cmd": "winget install -e --id Logitech.GHUB",
+    "category": "misc",
+    "icon": "logitechg.com"
+  },
+  {
+    "name": "Microsoft PC Manager",
+    "id": "Microsoft.PCManager",
+    "cmd": "winget install -e --id Microsoft.PCManager",
+    "category": "misc",
+    "icon": "microsoft.com"
+  },
+  {
+    "name": "Nvidia GeForce Experience",
+    "id": "Nvidia.GeForceExperience",
+    "cmd": "winget install -e --id Nvidia.GeForceExperience",
+    "category": "misc",
+    "icon": "nvidia.com"
+  },
+  {
+    "name": "QuickLook",
+    "id": "PaddyXu.QuickLook",
+    "cmd": "winget install -e --id PaddyXu.QuickLook",
+    "category": "misc",
+    "icon": "pooi.moe"
+  },
+  {
+    "name": "Rainmeter",
+    "id": "Rainmeter.Rainmeter",
+    "cmd": "winget install -e --id Rainmeter.Rainmeter",
+    "category": "misc",
+    "icon": "rainmeter.net"
+  },
+  {
+    "name": "Razer Synapse 3",
+    "id": "Razer.Synapse.3",
+    "cmd": "winget install -e --id Razer.Synapse.3",
+    "category": "misc",
+    "icon": "razer.com"
+  },
+  {
+    "name": "Scoop",
+    "id": "Scoop.Scoop",
+    "cmd": "winget install -e --id Scoop.Scoop",
+    "category": "misc",
+    "icon": "scoop.sh"
+  },
+  {
+    "name": "SteelSeries GG",
+    "id": "SteelSeries.GG",
+    "cmd": "winget install -e --id SteelSeries.GG",
+    "category": "misc",
+    "icon": "steelseries.com"
+  }
+]
